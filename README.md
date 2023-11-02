@@ -14,6 +14,7 @@ Tools: Excel, QGIS
 
 Data Source: 
 https://statsghana.gov.gh/
+
 https://www.citypopulation.de/en/ghana/admin/
 
 
