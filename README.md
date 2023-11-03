@@ -23,3 +23,19 @@ https://www.citypopulation.de/en/ghana/admin/
 #30daymapchallenge #datavisualization #geography #GIS #cartography 
 
 
+Day-2: Lines
+
+![Day2-Lines](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d7729e89-b916-4b49-91ed-d7b7b0ce180b)
+
+Title: Flight Route to DjangoCon US 2023, Durham, North Carolina
+
+The total flight hours was 22 hours!😂 Being in the air for more done half a day aside layover hours was a different feeling all together👌.
+It reminds me of a good moment I had throughout the whole journey and oh, @Djangocon ended few weeks ago!🙌 
+
+Tools: Google Sheet, QGIS
+
+Data Sources:
+www.efrainsmaps.es
+www.ourairports.com
+
+#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography 
