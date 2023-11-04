@@ -4,7 +4,7 @@
 
 
 
-Day-1:
+### Day-1:
 
 ![Day1-Points](https://github.com/iamDREAMO/My_-30DayMapChallenge2023/assets/89151426/0a55af64-9112-4849-b282-532bc522941a)
 
@@ -28,7 +28,7 @@ https://www.citypopulation.de/en/ghana/admin/
 
 
 
-Day-2: Lines
+### Day-2: Lines
 
 ![Day2-Lines](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d7729e89-b916-4b49-91ed-d7b7b0ce180b)
 
@@ -49,7 +49,7 @@ www.ourairports.com
 
 
 
-Day-3:
+### Day-3:
 
 
 
