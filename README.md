@@ -2,15 +2,12 @@
 
 ## All the entries  for the 30 Day Map Challenge
 
-\n
 
 ### Day-1: POINTS
 
 # Title: Towns Distribution Across Ghana. 
 
 ![Day1-Points](https://github.com/iamDREAMO/My_-30DayMapChallenge2023/assets/89151426/0a55af64-9112-4849-b282-532bc522941a)
-
-Day 1- #30daymapchallenge : Points
 
 
 The map shows how towns are distributed across the 16 Regions of Ghana.
