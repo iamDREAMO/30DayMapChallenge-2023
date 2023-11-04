@@ -50,7 +50,18 @@ www.ourairports.com
 
 ### Day-3: POLYGONS
 
+![Day_3_World_Lakes](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/26e4ddcc-b454-4265-929b-ee086b0b8d9d)
 
+
+The ouput was the challenge was to visualize the Lakes in the world as POLYGONS both as an interactive web map and paper formats. Both turned out to be good but I like the web map!😍
+
+WebMap:https://iamdreamo.github.io/Day3Challenge/
+
+Video:https://github.com/iamDREAMO/My-30DayMapChallenge2023/commit/1b9fa3fb8ffd32f2cae0de99a7e7e5cead5ae881#commitcomment-131688933
+
+Tools: QGIS, Windows Clipchamp
+
+#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
 
 
 
