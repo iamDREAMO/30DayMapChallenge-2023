@@ -16,9 +16,9 @@ Ghana is divided into 228 districts, comprising ordinary districts with populati
 Tools: Excel, QGIS
 
 Data Source: 
-https://statsghana.gov.gh/
+🔗 https://statsghana.gov.gh/
 
-https://www.citypopulation.de/en/ghana/admin/
+🔗 https://www.citypopulation.de/en/ghana/admin/
 
 
 #30daymapchallenge #datavisualization #geography #GIS #cartography 
@@ -39,9 +39,9 @@ It reminds me of a good moment I had throughout the whole journey and oh, @Djang
 Tools: Google Sheet, QGIS
 
 Data Sources:
-www.efrainsmaps.es
+🔗 www.efrainsmaps.es
 
-www.ourairports.com
+🔗 www.ourairports.com
 
 #30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography 
 
@@ -57,11 +57,15 @@ www.ourairports.com
 
 The ouput was the challenge was to visualize the Lakes in the world as POLYGONS both as an interactive web map and paper formats. Both turned out to be good but I like the web map!😍
 
-WebMap:https://iamdreamo.github.io/Day3Challenge/
+WebMap: https://iamdreamo.github.io/Day3Challenge/
 
-Video:https://github.com/iamDREAMO/My-30DayMapChallenge2023/commit/1b9fa3fb8ffd32f2cae0de99a7e7e5cead5ae881#commitcomment-131688933
+Video: https://github.com/iamDREAMO/My-30DayMapChallenge2023/commit/1b9fa3fb8ffd32f2cae0de99a7e7e5cead5ae881#commitcomment-131688933
+
+Data Source: 
+🔗 www.efrainsmaps.es
 
 Tools: QGIS, Windows Clipchamp
+
 
 #30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
 
