@@ -24,7 +24,6 @@ https://www.citypopulation.de/en/ghana/admin/
 #30daymapchallenge #datavisualization #geography #GIS #cartography 
 
 
-<div style="page-break-after: always;"></div>
 
 
 ### Day-2: LINES
