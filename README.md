@@ -2,7 +2,7 @@
 
 ## All the entries  for the 30 Day Map Challenge
 
-
+\n
 
 ### Day-1: POINTS
 
