@@ -70,4 +70,11 @@ Tools: QGIS, Windows Clipchamp
 #30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
 
 
+### Day-4: A BAD MAP
+
+# Title: What is a bad map?
+
+
+
+
 
