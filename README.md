@@ -90,7 +90,7 @@ Any map that lacks any of the following features and cannot answer the questions
 Data Source: 
 🔗 www.efrainsmaps.es
 
-Tools: QGIS, Windows Clipchamp
+Tools: QGIS
 
 
 #30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
