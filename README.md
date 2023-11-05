@@ -78,8 +78,8 @@ Tools: QGIS, Windows Clipchamp
 
 
 What makes up a bad map? 
-Any map that fails to answer WHAT,WHERE, WHEN, and WHO? questions fails to be a map.
-Any map that lacks any of the following features and cannot answer the questions above can be descibed as a bad map.
+Any map that fails to answer WHAT,WHERE, WHEN, and WHO? questions is a map.
+Any map that lacks any of the following features and cannot answer the questions above can be descibed as a bad map regardless of the symbology.
 * Title
 * North Arrow (Navigation/Direction)
 * Grid/Coordinate System
