@@ -74,6 +74,39 @@ Tools: QGIS, Windows Clipchamp
 
 # Title: What is a bad map?
 
+![Day4-Bad Map](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/336edbd0-5524-4e87-ba32-fa5e1ccb233a)
+
+
+What makes up a bad map? 
+Any map that fails to answer WHAT,WHERE, WHEN, and WHO? questions fails to be a map.
+Any map that lacks any of the following features and cannot answer the questions above can be descibed as a bad map.
+* Title
+* North Arrow (Navigation/Direction)
+* Grid/Coordinate System
+* Legend
+* Scale
+* Biblographical Information
+
+Data Source: 
+🔗 www.efrainsmaps.es
+
+Tools: QGIS, Windows Clipchamp
+
+
+#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
