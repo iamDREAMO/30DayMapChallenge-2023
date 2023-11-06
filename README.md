@@ -100,7 +100,9 @@ Tools: QGIS
 
 # Title: Mo'orea Volcanic Island
 
-![IMG_0918](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/4fec1029-1ec7-4d3a-8996-6f2cf151b921)
+Link to Analogue Video: (https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/4fec1029-1ec7-4d3a-8996-6f2cf151b921)
+
+
 I crafted the terrains of Moorea which is a Volcanic Island located in French Polynesia.
 
 
