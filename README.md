@@ -96,7 +96,7 @@ Tools: QGIS
 #30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
 
 
-### Day-4: Analogue Map
+### Day-5: Analogue Map
 
 # Title: Mo'orea Volcanic Island
 
@@ -109,6 +109,9 @@ I crafted the terrains of Moorea which is a Volcanic Island located in French Po
 Tools: My hand and Imaginations😂👍🏾
 
 #30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
+
+
+### Day-6: Asia
 
 
 
