@@ -113,6 +113,25 @@ Tools: My hand and Imaginations😂👍🏾
 
 ### Day-6: Asia
 
+# Title: Country Cities in Asia
+
+![Day6-Asia](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d3f932ab-e8b4-43d3-9ece-423b7d0e9840)
+
+The map shows the cities of the countries on the continent, Asia. By far, it was difficult in accessing data for this work. I am opened to sharing of links resources in the comments.
+
+Tools: Everything was done in QGIS.
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
+
+
+
+
+
+
+
+
+
 
 
 
