@@ -133,7 +133,7 @@ Data Sources:
 
 ![Day7-Navigation](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/90773219-477e-4f1a-ae33-e996e66e3472)
 
-Straight destination flights are mostly the choice for travelers embarking long journeys. Layovers can be tiring and boring at times. Kotoka International Airport is the only international airport currentry in Ghana. Below is a visualization of flight flow from ACC (airport code for Kotoka International Airport) to airports, airfields, and helipads of neighbouring countries. 
+Straight destination flights are mostly the wish for travelers embarking long journeys. Layovers can be tiring and boring at times. Kotoka International Airport is the only international airport currently in Ghana. Below is a visualization of flight flow from ACC (airport code for Kotoka International Airport) to airports, airfields, and helipads of neighboring countries. 
 
 Tools: Everything was done in QGIS.
 
