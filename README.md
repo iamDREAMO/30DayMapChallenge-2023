@@ -143,6 +143,9 @@ Data Sources:
 #30daymapchallenge #navigation #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
+### Day 8: AFRICA
+
+# Title: Cassava Africa
 
 
 
