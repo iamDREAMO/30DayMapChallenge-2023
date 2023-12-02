@@ -135,7 +135,7 @@ Data Sources:
 
 Straight destination flights are mostly the wish for travelers embarking long journeys. Layovers can be tiring and boring at times. Kotoka International Airport is the only international airport currently in Ghana. Below is a visualization of flight flow from ACC (airport code for Kotoka International Airport) to airports, airfields, and helipads of neighboring countries. 
 
-Tools: Everything was done in QGIS.
+Tools: Everything was done in QGIS
 
 Data Sources:
 🔗 www.efrainmaps.es
