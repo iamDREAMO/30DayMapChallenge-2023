@@ -153,7 +153,7 @@ This map shows the distribution of planted cassava in areas of Africa. Each poin
 
 Data Source: https://hub.arcgis.com/datasets/
 
-Tool: Visualization was done with QGIS
+Tool: Visualization was done with QGIS.
 
 #30daymapchallenge #navigation #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
