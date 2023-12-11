@@ -67,7 +67,7 @@ Data Source:
 Tools: QGIS, Windows Clipchamp
 
 
-#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
 ### Day-4: A BAD MAP
@@ -93,8 +93,7 @@ Data Source:
 Tools: QGIS
 
 
-#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
-
+#30daymapchallenge #30DayMapChallenge 
 
 ### Day-5: Analogue Map
 
@@ -108,7 +107,7 @@ I crafted the terrains of Moorea which is a Volcanic Island located in French Po
 
 Tools: My hand and Imaginations😂👍🏾
 
-#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
 ### Day-6: Asia
