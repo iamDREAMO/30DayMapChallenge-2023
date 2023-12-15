@@ -33,7 +33,7 @@ Data Source:
 ![Day2-Lines](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d7729e89-b916-4b49-91ed-d7b7b0ce180b)
 
 
-The total flight hours was 22 hours!😂 Being in the air for more done half a day aside layover hours was a different feeling all together👌.
+The total flight hours was 22 hours!😂 Being in the air for more done half a day aside layover hours was a different feeling all together👌
 It reminds me of a good moment I had throughout the whole journey and oh, @Djangocon ended few weeks ago!🙌 
 
 Tools: Google Sheet, QGIS
