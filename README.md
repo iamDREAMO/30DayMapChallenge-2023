@@ -5,7 +5,7 @@
 
 ### Day-1: POINTS
 
-# Title: Towns Distribution Across Ghana. 
+# Title: Towns Distribution Across Ghana 
 
 ![Day1-Points](https://github.com/iamDREAMO/My_-30DayMapChallenge2023/assets/89151426/0a55af64-9112-4849-b282-532bc522941a)
 
