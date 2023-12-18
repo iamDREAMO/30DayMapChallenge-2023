@@ -97,7 +97,7 @@ Tools: QGIS
 
 ### Day-5: Analogue Map
 
-# Title: Mo'orea Volcanic Island
+# Title: Mo'orea Volcanic Island.
 
 Link to Analogue Video: (https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/4fec1029-1ec7-4d3a-8996-6f2cf151b921)
 
@@ -112,7 +112,7 @@ Tools: My hand and Imaginations😂👍🏾
 
 ### Day-6: Asia
 
-# Title: Country Cities in Asia
+# Title: Country Cities in Asia.
 
 ![Day6-Asia](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d3f932ab-e8b4-43d3-9ece-423b7d0e9840)
 
@@ -128,7 +128,7 @@ Data Sources:
 
 ### Day-7: Navigation
 
-# Title: Flight-flow from ACC to neighbouring countries
+# Title: Flight-flow from ACC to neighbouring countries.
 
 ![Day7-Navigation](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/90773219-477e-4f1a-ae33-e996e66e3472)
 
@@ -144,7 +144,7 @@ Data Sources:
 
 ### Day 8: AFRICA
 
-# Title: Cassava Africa
+# Title: Cassava Africa.
 
 ![Day8-Africa](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/5881af45-c71b-4d2d-88bc-b197f08e1c65)
 
