@@ -97,7 +97,7 @@ Tools: QGIS
 
 ### Day-5: Analogue Map
 
-# Title: Mo'orea Volcanic Island.
+# Title: Mo'orea Volcanic Island
 
 Link to Analogue Video: (https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/4fec1029-1ec7-4d3a-8996-6f2cf151b921)
 
