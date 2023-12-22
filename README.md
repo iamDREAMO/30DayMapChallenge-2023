@@ -128,7 +128,7 @@ Data Sources:
 
 ### Day-7: Navigation
 
-# Title: Flight-flow from ACC to neighbouring countries.
+# Title: Flight-flow from ACC to neighbouring countries
 
 ![Day7-Navigation](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/90773219-477e-4f1a-ae33-e996e66e3472)
 
@@ -144,7 +144,7 @@ Data Sources:
 
 ### Day 8: AFRICA
 
-# Title: Cassava Africa.
+# Title: Cassava Africa
 
 ![Day8-Africa](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/5881af45-c71b-4d2d-88bc-b197f08e1c65)
 
