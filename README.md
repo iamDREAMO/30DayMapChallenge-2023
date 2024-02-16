@@ -1,4 +1,4 @@
-# My-30DayMapChallenge2023
+# 30DayMapChallenge-2023
 
  All the entries  for the 30 Day Map Challenge
 
