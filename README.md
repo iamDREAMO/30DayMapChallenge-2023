@@ -95,7 +95,7 @@ Tools: QGIS
 
 #30daymapchallenge #30DayMapChallenge 
 
-# Day-5: Analogue Map
+# Day-5: ANALOGUE MAP
 
 # Title: Mo'orea Volcanic Island
 
@@ -110,7 +110,7 @@ Tools: My hand and Imaginations😂👍🏾
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day-6: Asia
+# Day-6: ASIA
 
 # Title: Country Cities in Asia
 
@@ -126,7 +126,7 @@ Data Sources:
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day-7: Navigation
+# Day-7: NAVIGATION
 
 # Title: Flight-flow from ACC to neighbouring countries
 
@@ -157,8 +157,18 @@ Tool: Visualization was done with QGIS
 #30daymapchallenge #navigation #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
+# Day 9: HEXAGONS
+# Title: Elevation of Lesotho
 
+![3D-Lestho-Day9-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/7fe832e0-8f4d-4273-838b-0289a234521f)
 
+That's why it was a challenge! Hexagons visualization was new to me but I struggled and did it. I spent time to learn this and that also led me to start my visualization with Blender software. Yes, my first blender work combined with QGIS.
+
+Tools:
+* QGIS for hexagons
+* DEM of Lesotho was combined with the hexagon layer to form the 3D elevation model in Blender.
+  
+Data Source: https://www.diva-gis.org/gdata
 
 
 
