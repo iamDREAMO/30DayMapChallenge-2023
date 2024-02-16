@@ -95,7 +95,7 @@ Tools: QGIS
 
 #30daymapchallenge #30DayMapChallenge 
 
-### Day-5: Analogue Map
+# Day-5: Analogue Map
 
 # Title: Mo'orea Volcanic Island
 
@@ -110,7 +110,7 @@ Tools: My hand and Imaginations😂👍🏾
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-### Day-6: Asia
+# Day-6: Asia
 
 # Title: Country Cities in Asia
 
@@ -126,7 +126,7 @@ Data Sources:
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-### Day-7: Navigation
+# Day-7: Navigation
 
 # Title: Flight-flow from ACC to neighbouring countries
 
@@ -142,7 +142,7 @@ Data Sources:
 #30daymapchallenge #navigation #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-### Day 8: AFRICA
+# Day 8: AFRICA
 
 # Title: Cassava Africa
 
