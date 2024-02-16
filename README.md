@@ -3,7 +3,7 @@
  All the entries  for the 30 Day Map Challenge
 
 
-### Day-1: POINTS
+# Day-1: POINTS
 
 # Title: Towns Distribution Across Ghana 
 
@@ -26,7 +26,7 @@ Data Source:
 
 
 
-### Day-2: LINES
+# Day-2: LINES
 
 # Title: Flight Route to DjangoCon US 2023, Durham, North Carolina
 
@@ -48,7 +48,7 @@ Data Sources:
 
 
 
-### Day-3: POLYGONS
+# Day-3: POLYGONS
 
 # Title: Map of Lakes Across the World
 
@@ -70,7 +70,7 @@ Tools: QGIS, Windows Clipchamp
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-### Day-4: A BAD MAP
+# Day-4: A BAD MAP
 
 # Title: What is a bad map?
 
