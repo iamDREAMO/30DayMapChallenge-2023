@@ -166,7 +166,7 @@ That's why it was a challenge! Hexagons visualization was new to me but I strugg
 
 Tools:
 * QGIS for hexagons
-* DEM of Lesotho was combined with the hexagon layer to form the 3D elevation model in Blender.
+* DEM of Lesotho was combined with the hexagon layer to form the 3D elevation model in Blender
   
 Data Source: https://www.diva-gis.org/gdata
 
