@@ -148,7 +148,7 @@ Data Sources:
 
 ![Day8-Africa](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/5881af45-c71b-4d2d-88bc-b197f08e1c65)
 
-This map shows the distribution of planted cassava in areas of Africa. Each point is equivalent to 500 hectares in land in Cassava cultivation.
+This map shows the distribution of planted cassava in areas of Africa. Each point is equivalent to 500 hectares in land in Cassava cultivation
 
 Data Source: https://hub.arcgis.com/datasets/
 
