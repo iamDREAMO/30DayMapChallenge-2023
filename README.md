@@ -186,9 +186,9 @@ Data Source:https://hub.arcgis.com/datasets/
 
 
 # Day 11: RETRO	(A blast from the past)
-# Title: Level II Ecoregions of North America
+# Title: 
 
-![North America-Benedict](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bb158809-ef3f-4ac3-9de6-f8292d94c2e6)
+![Retro_GhanaSS_Map - Copy](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/fb3d85cc-ffa7-47a3-ae93-4dea6cdd279d)
 Inspired by the United States Environmental Protection Agency (https://www.epa.gov/eco-research/ecoregions-north-america), this map was recreated to show the 50 Level II ecological regions that have been delineated and intended to provide a more detailed description of the large ecological areas nested within the Level I regions. Level II ecological regions are useful for national and subcontinental overviews of ecological patterns.
 
 Tools:
