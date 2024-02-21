@@ -188,7 +188,7 @@ Data Source:https://hub.arcgis.com/datasets/
 # Day 11: RETRO	(A blast from the past)
 # Title: Soil Suitability Map for Mechanised and other Cultivation Practices in Ghana
 
-
+![RETRO-Benedict Kofi Amofah-new](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9564a69f-66d1-4f00-941b-43ac96c0de5f)
 This map, Soil Suitability Map for Mechanised and other Cultivation Practices in Ghana was produced and printed by the Surrvey Department, Accra, GHANA on May 1971. The original map was visualized into 3D using #Blender. Other details can be found from the attached images.
 
 Tools:
