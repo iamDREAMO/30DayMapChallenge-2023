@@ -189,12 +189,13 @@ Data Source:https://hub.arcgis.com/datasets/
 # Title: 
 
 ![Retro_GhanaSS_Map - Copy](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/fb3d85cc-ffa7-47a3-ae93-4dea6cdd279d)
-Inspired by the United States Environmental Protection Agency (https://www.epa.gov/eco-research/ecoregions-north-america), this map was recreated to show the 50 Level II ecological regions that have been delineated and intended to provide a more detailed description of the large ecological areas nested within the Level I regions. Level II ecological regions are useful for national and subcontinental overviews of ecological patterns.
+
 
 Tools:
 * QGIS, Blender
 
-Data Source:https://hub.arcgis.com/datasets/
+Data Source:University of Wisconsin American Geographical Society Library Digital Map Collection
+
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
