@@ -188,13 +188,13 @@ Data Source:https://hub.arcgis.com/datasets/
 # Day 11: RETRO	(A blast from the past)
 # Title: 
 
-![Retro_GhanaSS_Map - Copy](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/fb3d85cc-ffa7-47a3-ae93-4dea6cdd279d)
 
+This map, Soil Suitability Map for Mechanised and other Cultivation Practices in Ghana was produced and printed by the Surrvey Department, Accra, GHANA on May 1971. The original map was visualized into 3D using #Blender. Other details can be found from the attached images.
 
 Tools:
 * QGIS, Blender
 
-Data Source:University of Wisconsin American Geographical Society Library Digital Map Collection
+Data Source: https://esdac.jrc.ec.europa.eu/
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
