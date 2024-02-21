@@ -194,7 +194,7 @@ This map, Soil Suitability Map for Mechanised and other Cultivation Practices in
 Tools:
 * QGIS, Blender
 
-Data Source: https://esdac.jrc.ec.europa.eu/
+Data Source: https://esdac.jrc.ec.europa.eu/ (EUDASM)
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
