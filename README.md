@@ -192,7 +192,8 @@ Data Source:https://hub.arcgis.com/datasets/
 This map, Soil Suitability Map for Mechanised and other Cultivation Practices in Ghana was produced and printed by the Surrvey Department, Accra, GHANA on May 1971. The original map was visualized into 3D using #Blender. Other details can be found from the attached images.
 
 Tools:
-* QGIS, Blender
+* QGIS
+* Blender
 
 Data Source: https://esdac.jrc.ec.europa.eu/ (EUDASM)
 
