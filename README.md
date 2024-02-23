@@ -201,4 +201,21 @@ Data Source: https://esdac.jrc.ec.europa.eu/ (EUDASM)
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
+# Day 11: SOUTH AMERICA
+# Title: Geological Map of South America
 
+![RETRO-Benedict Kofi Amofah-new](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9564a69f-66d1-4f00-941b-43ac96c0de5f)
+Between 1928 and 1940, the TCI Cartographic Office for the Italian Encyclopedia of Giovanni Treccani Institute published this map and was printed by the renowned Italian publisher, Antonio Vallardi-Milano.
+The creater of this map is Guido Bonarelli, Italian geologist and paleontologist (1871-1951).
+The plain map was georeferenced in QGIS, combined with the DEM and modelled in #Blender.
+
+Tools:
+* QGIS
+* Blender
+
+Data Source: 
+* Map- https://commons.wikimedia.org/
+* DEM- USGS
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
