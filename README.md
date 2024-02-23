@@ -207,6 +207,7 @@ Data Source: https://esdac.jrc.ec.europa.eu/ (EUDASM)
 ![3D-SA -New](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bf653e94-4add-4870-bfcb-c7c2ced00116)
 Between 1928 and 1940, the TCI Cartographic Office for the Italian Encyclopedia of Giovanni Treccani Institute published this map and was printed by the renowned Italian publisher, Antonio Vallardi-Milano.
 The creater of this map is Guido Bonarelli, Italian geologist and paleontologist (1871-1951).
+
 The plain map was georeferenced in QGIS, combined with the DEM and modelled in #Blender.
 
 Tools:
