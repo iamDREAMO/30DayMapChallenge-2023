@@ -226,14 +226,13 @@ Data Source:
 # Title: Geological Map of South America
 
 ![Hong_Kong](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9d32516f-ebad-4156-9f76-9c7d327456d4)
-Between 1928 and 1940, the TCI Cartographic Office for the Italian Encyclopedia of Giovanni Treccani Institute published this map and was printed by the renowned Italian publisher, Antonio Vallardi-Milano.
-The creater of this map is Guido Bonarelli, Italian geologist and paleontologist (1871-1951).
+This layer shows the Hong Kong Population Distribution by Usual Spoken Language by 18 districts in 2021. It is a subset of the 2021 Population Census made available by the Census and Statistics Department under the Government of Hong Kong Special Administrative Region (the "Government") at https://portal.csdi.gov.hk ("CSDI Portal"). 
 
-The plain map was georeferenced in QGIS, combined with the DEM and modelled in #Blender.
+I recreated the map with the focus on the population of each of the districts.
 
 Tool: QGIS
 
-Data Source: 
+Data Source: https://hub.arcgis.com/datasets/
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
