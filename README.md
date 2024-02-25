@@ -237,3 +237,19 @@ Data Source: https://hub.arcgis.com/datasets/
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
+
+# Day 13: CHOROPLETH
+# Title: Hong Kong Population Distribution
+
+![Hong_Kong](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9d32516f-ebad-4156-9f76-9c7d327456d4)
+The map shows the Hong Kong Population Distribution by Usual Spoken Language by 18 districts in 2021. It is a subset of the 2021 Population Census made available by the Census and Statistics Department under the Government of Hong Kong Special Administrative Region (the "Government") at https://portal.csdi.gov.hk ("CSDI Portal"). 
+
+I recreated the map with a focus on the population of each of the districts.
+
+Tool: QGIS
+
+Data Source: https://hub.arcgis.com/datasets/
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
