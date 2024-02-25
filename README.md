@@ -238,17 +238,19 @@ Data Source: https://hub.arcgis.com/datasets/
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 13: CHOROPLETH
-# Title: Hong Kong Population Distribution
+# Day 14: EUROPE
+# Title: Roads - National 250k Map Of Ireland
 
 ![Hong_Kong](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9d32516f-ebad-4156-9f76-9c7d327456d4)
-The map shows the Hong Kong Population Distribution by Usual Spoken Language by 18 districts in 2021. It is a subset of the 2021 Population Census made available by the Census and Statistics Department under the Government of Hong Kong Special Administrative Region (the "Government") at https://portal.csdi.gov.hk ("CSDI Portal"). 
+Ireland was chosen for the theme (Europe) of the challenge and it is the second-largest island of the British Isles, and the third-largest in Europe.
+The map features European roads (E-roads) and connections between built-up areas. In addition to main routes, it includes roads necessary for a fully connected transportation network, such as direct links between areas or routes to isolated places like harbors and airports. Within built-up areas, the map focuses on main roads, ensuring clarity and ease of navigation.
 
-I recreated the map with a focus on the population of each of the districts.
+All roads are depicted with a single line, regardless of their size or number of lanes. 
+This dataset is made available by Tailte Éireann.
 
 Tool: QGIS
 
-Data Source: https://hub.arcgis.com/datasets/
+Data Source: https://data-osi.opendata.arcgis.com/datasets/
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
