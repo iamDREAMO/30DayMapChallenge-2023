@@ -241,8 +241,8 @@ Data Source: https://hub.arcgis.com/datasets/
 # Day 14: EUROPE
 # Title: Roads - National 250k Map Of Ireland
 
-![Hong_Kong](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9d32516f-ebad-4156-9f76-9c7d327456d4)
-Ireland was chosen for the theme (Europe) of the challenge and it is the second-largest island of the British Isles, and the third-largest in Europe.
+![Ireland_Roads_Day_14](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/7e12d13c-8b7c-4a26-994b-50b86c19ac4e)
+Ireland was chosen for the theme (Europe) of the 2023 #30daymapchallenge and it is the second-largest island of the British Isles, and the third-largest in Europe.
 The map features European roads (E-roads) and connections between built-up areas. In addition to main routes, it includes roads necessary for a fully connected transportation network, such as direct links between areas or routes to isolated places like harbors and airports. Within built-up areas, the map focuses on main roads, ensuring clarity and ease of navigation.
 
 All roads are depicted with a single line, regardless of their size or number of lanes. 
