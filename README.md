@@ -264,7 +264,7 @@ Throughout the 2023 #30daymapchallenge, I encountered various OSM maps and likel
 
 I also discovered the webapp version (Prettymap) developed by Christoph Rieke which has improved features on speed and adapted configuration to interface with the webapp.
 
-My map submissions: 
+My map submissions: https://iamdreamo.github.io/30DayMapChallenge-2023/ 
 
 Tool/Data Source: 
 * Prettymaps (Source code: https://github.com/marceloprates/prettymaps)
