@@ -256,7 +256,7 @@ Data Source: https://data-osi.opendata.arcgis.com/datasets/
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 15: EUROPE
+# Day 15: OpenStreetMap
 # Title: OSM of Venice, Italy
 
 ![Ireland_Roads_Day_14](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/7e12d13c-8b7c-4a26-994b-50b86c19ac4e)
@@ -268,7 +268,7 @@ My map submissions: https://iamdreamo.github.io/30DayMapChallenge-2023/
 
 Tool/Data Source: 
 * Prettymaps (Source code: https://github.com/marceloprates/prettymaps)
-* Webapp (Prettymap)- https://github.com/chrieke/prettymapp
+* Webapp (Prettymap)- https://github.com/chrieke/prettymapp)
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
