@@ -57,9 +57,7 @@ Data Sources:
 
 The output for the challenge was to visualize the Lakes in the world (POLYGONS) both as an interactive web map and a paper formats. Both turned out to be good but I like the web map!😍
 
-WebMap: https://iamdreamo.github.io/Day3Challenge/
-
-Video: https://github.com/iamDREAMO/My-30DayMapChallenge2023/commit/1b9fa3fb8ffd32f2cae0de99a7e7e5cead5ae881#commitcomment-131688933
+WebMap: https://iamdreamo.github.io/Webmap-for-Day3-30daysChallenge/
 
 Data Source: 
 🔗 www.efrainmaps.es
