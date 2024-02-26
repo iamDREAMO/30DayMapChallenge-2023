@@ -260,12 +260,15 @@ Data Source: https://data-osi.opendata.arcgis.com/datasets/
 # Title: OSM of Venice, Italy
 
 ![Ireland_Roads_Day_14](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/7e12d13c-8b7c-4a26-994b-50b86c19ac4e)
-Throghout the 2023 #30daymapchallenge, I saw various OSM maps and probably most of the ways of acquiring data from sites that OSM supports. I was interested in automating this workflow to acquire similar map under the theme for the challenge. 
-I read about Prettymaps, a #Python package to draw maps with customizable styles from OpenStreetMap data. Created using the osmnx, matplotlib, shapely and vsketch packages. That was a smooth experience for the documentation on github outlined the various steps in to create and customised OSMs.
+Throughout the 2023 #30daymapchallenge, I encountered various OSM maps and likely explored most of the methods for acquiring data from sites supported by OSM. I became interested in automating this workflow to obtain a similar map for the challenge theme. I came across Prettymaps, a #Python package for drawing maps with customizable styles using OpenStreetMap data crated by Marcelo de Oliveira Rosa Prates. It is created using the osmnx, matplotlib, shapely, and vsketch packages. The documentation on GitHub provided a smooth experience, outlining the various steps to create and customize OSMs.
 
-Tool: Prettymaps (Python Package)
+I also discovered the webapp version (Prettymap) developed by Christoph Rieke which has improved features on speed and adapted configuration to interface with the webapp.
 
-Data Source: OSM
+My map submissions: 
+
+Tool/Data Source: 
+* Prettymaps (Source code: https://github.com/marceloprates/prettymaps)
+* Webapp (Prettymap)- https://github.com/chrieke/prettymapp
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
