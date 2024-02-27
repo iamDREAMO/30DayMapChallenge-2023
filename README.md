@@ -271,3 +271,20 @@ Tool/Data Source:
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
+
+# Day 15: OpenStreetMap
+# Title: Venice, Italy OSM
+
+![Vernice Italy_Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/8cd7124a-c56d-4048-a5a7-a8d53ed1b5b9)
+Throughout the 2023 #30daymapchallenge, I encountered various OSM maps and likely explored most of the methods for acquiring data from sites supported by OSM. I became interested in automating this workflow to obtain a similar map for the challenge theme. I came across Prettymaps, a #Python package for drawing maps with customizable styles using OpenStreetMap data crated by Marcelo de Oliveira Rosa Prates. It is created using the osmnx, matplotlib, shapely, and vsketch packages. The documentation on GitHub provided a smooth experience, outlining the various steps to create and customize OSMs.
+
+I also discovered the webapp version (Prettymap) developed by Christoph Rieke which has improved features on speed and adapted configuration to interface with the webapp.
+
+My map submissions: https://iamdreamo.github.io/30DayMapChallenge-2023/ 
+
+Tool/Data Source: 
+* Prettymaps (Source code: https://github.com/marceloprates/prettymaps)
+* Webapp (Prettymap)- https://github.com/chrieke/prettymapp)
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
