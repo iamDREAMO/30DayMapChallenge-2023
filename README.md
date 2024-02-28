@@ -273,6 +273,17 @@ Tool/Data Source:
 
 
 # Day 15: OCEANIA
-# Title: Venice, Italy OSM
+# Title: Title: 3D Visualized Elevation of Australia
 
-![Vernice Italy_Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/8cd7124a-c56d-4048-a5a7-a8d53ed1b5b9)
+
+I discovered this map from the archives and decided to visualized it in 3D. The University of Wisconsin American Geographical Society Library Digital Map Collection is a home for so many old maps in different jurisdiction.
+
+Tool: Blender, QGIS
+
+Data Source:
+University of Wisconsin
+American Geographical Society Library Digital Map Collection
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
