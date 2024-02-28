@@ -287,3 +287,18 @@ American Geographical Society Library Digital Map Collection
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
+
+# Day 17: FLOW
+# Title: Title: 3D Visualized Elevation of Australia
+
+![3D1-Elevation-Australia-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/66db5aee-be6b-4131-b455-7bad9c672e4b)
+I discovered this map from the archives and decided to visualized it in 3D. The University of Wisconsin American Geographical Society Library Digital Map Collection is a home for so many old maps in different jurisdiction.
+
+Tool: Blender, QGIS
+
+Data Source:
+University of Wisconsin
+American Geographical Society Library Digital Map Collection
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
