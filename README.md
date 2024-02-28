@@ -293,7 +293,7 @@ American Geographical Society Library Digital Map Collection
 
 ![Flow Map-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/06864ad6-1f84-4e29-93bf-c7f94125a6ee)
 The concept of flow under the 2023 ##30daymapchallenge was geared towards flow of transport and people. I picked on the flow of people and the next step was data sourcing. 
-Visiting the Open Doors Data organization website revealed a whole set of data. The decision was to visualise the flow of international students from the West Africa Sub-Saharan countries studying in the USA
+Visiting the Open Doors Data organization website revealed a whole set of data. The decision was to visualize the flow of international students from the West Africa Sub-Saharan countries studying in the USA
 
 Tool: Microsoft Excel, QGIS
 
