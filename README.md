@@ -289,16 +289,18 @@ American Geographical Society Library Digital Map Collection
 
 
 # Day 17: FLOW
-# Title: Title: 3D Visualized Elevation of Australia
+# Title: Title: International Students in United States place of Origin from West Africa, 2022/2023
 
-![3D1-Elevation-Australia-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/66db5aee-be6b-4131-b455-7bad9c672e4b)
-I discovered this map from the archives and decided to visualized it in 3D. The University of Wisconsin American Geographical Society Library Digital Map Collection is a home for so many old maps in different jurisdiction.
+![Flow Map-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/06864ad6-1f84-4e29-93bf-c7f94125a6ee)
+The concept of flow under the 2023 ##30daymapchallenge was geared towards flow of transport and people. I picked on the flow of people and the next step was data sourcing. 
+Visiting the Open Doors Data organization website revealed a whole set of data. The decision was to visualise the flow of international students from the West Africa Sub-Saharan countries studying in the USA
 
-Tool: Blender, QGIS
+Tool: Microsoft Excel, QGIS
 
 Data Source:
-University of Wisconsin
-American Geographical Society Library Digital Map Collection
+* www.gh.usembassy.gov/
+* www.opendoorsdata.org/
+
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
