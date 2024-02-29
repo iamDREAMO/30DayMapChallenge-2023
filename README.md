@@ -306,7 +306,7 @@ Data Source:
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 18: FLOW
+# Day 18: ATMOSPHERE
 # Title: Global Burning Index (CEMS), 2010
 
 ![Atmosphere](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/50194b26-7c78-4c9e-a738-4c847491eee1)
