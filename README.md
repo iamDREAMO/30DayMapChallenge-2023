@@ -289,7 +289,7 @@ American Geographical Society Library Digital Map Collection
 
 
 # Day 17: FLOW
-# Title: Title: International Students in United States place of Origin from West Africa, 2022/2023
+# Title: International Students in United States place of Origin from West Africa, 2022/2023
 
 ![Flow Map-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/06864ad6-1f84-4e29-93bf-c7f94125a6ee)
 The concept of flow under the 2023 ##30daymapchallenge was geared towards flow of transport and people. I picked on the flow of people and the next step was data sourcing. 
@@ -300,6 +300,23 @@ Tool: Microsoft Excel, QGIS
 Data Source:
 * www.gh.usembassy.gov/
 * www.opendoorsdata.org/
+
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
+
+# Day 18: FLOW
+# Title: Global Burning Index (CEMS), 2010
+
+
+Conditions of the atmosphere either weather or climate were the details for the 2023 #30daymapchallenge Day 18 under the Atmosphere theme. I used Climate Engine for my project during my undergraduate studies and it is an excellent tool with supportive data for analysis and visualization of satellite data in areas of Remote Sensing, Climate, Hydrology and among others.
+
+"Climate Engine tools use Google Earth Engine for on-demand processing of satellite and climate data on a web browser and features on-demand mapping of environmental monitoring datasets, such as remote sensing and gridded meteorological observations."
+Tool: Climate Engine App
+
+Data Source:
+* https://app.climateengine.org/
 
 
 
