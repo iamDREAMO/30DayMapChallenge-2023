@@ -309,10 +309,11 @@ Data Source:
 # Day 18: FLOW
 # Title: Global Burning Index (CEMS), 2010
 
-
+![Atmosphere](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/50194b26-7c78-4c9e-a738-4c847491eee1)
 Conditions of the atmosphere either weather or climate were the details for the 2023 #30daymapchallenge Day 18 under the Atmosphere theme. I used Climate Engine for my project during my undergraduate studies and it is an excellent tool with supportive data for analysis and visualization of satellite data in areas of Remote Sensing, Climate, Hydrology and among others.
 
 "Climate Engine tools use Google Earth Engine for on-demand processing of satellite and climate data on a web browser and features on-demand mapping of environmental monitoring datasets, such as remote sensing and gridded meteorological observations."
+
 Tool: Climate Engine App
 
 Data Source:
