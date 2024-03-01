@@ -324,10 +324,10 @@ Data Source:
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 18: 5min Map
-# Title: OSM of portions of KNUST
+# Day 19: 5min Map
+# Title: OSM portions of KNUST
 
-![Atmosphere](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/50194b26-7c78-4c9e-a738-4c847491eee1)
+![5min-map1](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/1f760467-e368-45a0-a2a4-16e85659f8a3)
 The general rule was to spend less than 5 minutes on the map but it took 5 minutes 5 seconds to generate and customize this map.
 Prettymaps, a #Python package for drawing maps with customizable styles using OpenStreetMap data crated by Marcelo de Oliveira Rosa Prates. It is created using the osmnx, matplotlib, shapely, and vsketch packages.
 
