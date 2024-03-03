@@ -339,3 +339,19 @@ Data Source:
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
+
+# Day 19: OUTDOORS
+# Title:
+
+....
+
+
+Tool: Google Earth Studio
+
+Data Source:
+* OSM
+
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
