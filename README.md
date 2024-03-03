@@ -355,3 +355,23 @@ Data Source:
 
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
+
+# Day 19: RASTER (PIXELS)
+# Title: 3D Bathymetry of New Zealand
+
+....
+
+
+Tool: QGIS. Blender
+
+Data Source:
+* https://data-niwa.opendata.arcgis.com/datasets/
+
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
