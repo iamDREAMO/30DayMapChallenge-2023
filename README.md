@@ -344,10 +344,8 @@ Data Source:
 # Day 20: OUTDOORS
 # Title: Kilimanjaro
 
-![Outdoors1](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/f0724d1c-d909-45cd-925c-77ad9411eaec)
-
 Mount Kilimanjaro, situated in the Kilimanjaro Region of Tanzania, is a dormant volcano characterized by three distinct volcanic cones: Kibo, Mawenzi, and Shira. As the tallest mountain in Africa and the highest single free-standing peak above sea level globally, it reaches an impressive elevation of 5,895 meters (19,341 feet) above sea level, towering approximately 4,900 meters (16,100 feet) above its plateau base. This volcanic giant holds the distinction of being the highest volcano not only in Africa but also in the Eastern Hemisphere.
-
+Video: https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/f0724d1c-d909-45cd-925c-77ad9411eaec
 
 Tool/Data Source:
 * Google Earth Explorer
