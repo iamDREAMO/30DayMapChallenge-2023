@@ -363,7 +363,6 @@ Data Source:
 # Day 21: RASTER (PIXELS)
 # Title: 3D Bathymetry of New Zealand
 
-....
 ![3D-NZ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/96496e54-9e6e-4e7f-b01b-8498b1b03b25)
 This visualization was created from the NIWA's bathymetry model of New Zealand. With a 250m as the original resolution, I clipped out portions of the model to focus mainly on New Zealand. 
 This represents a significant advancement in our understanding of New Zealand's underwater landscape.
