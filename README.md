@@ -366,6 +366,7 @@ Data Source:
 This visualization was created from the NIWA's bathymetry model of New Zealand. With a 250m as the original resolution, I clipped out portions of the model to focus mainly on New Zealand. 
 This represents a significant advancement in our understanding of New Zealand's underwater landscape.
 Compiled from various sources including coastal charts, digital soundings archive, and multibeam data from both national and international surveys, this model is a comprehensive representation of the underwater terrain- NIWA Geospatial Data
+
 Find the initial 2D map created below👇
 
 ![New_Zealand_Bathymetry_raster](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/01802768-8806-460a-80b1-04adab476d9e)
