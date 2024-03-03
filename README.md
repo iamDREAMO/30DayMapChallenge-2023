@@ -341,7 +341,7 @@ Data Source:
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 19: OUTDOORS
+# Day 20: OUTDOORS
 # Title:
 
 ....
@@ -360,10 +360,12 @@ Data Source:
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 19: RASTER (PIXELS)
+# Day 21: RASTER (PIXELS)
 # Title: 3D Bathymetry of New Zealand
 
 ....
+![3D-NZ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/96496e54-9e6e-4e7f-b01b-8498b1b03b25)
+![New_Zealand_Bathymetry_raster](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/01802768-8806-460a-80b1-04adab476d9e)
 
 
 Tool: QGIS. Blender
