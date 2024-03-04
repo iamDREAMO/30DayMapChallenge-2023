@@ -385,11 +385,16 @@ Data Source:
 # Day 22: NORTH is not always up
 # Title: Fossil Map of Antarctica
 
-![3D-NZ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/96496e54-9e6e-4e7f-b01b-8498b1b03b25)
+![3D_Antartica_Fossil_Map - Copy](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/496abbdc-6058-4964-a189-81b87fcac42d)
+During the 2023 #30daymapchallenge, I discovered one concept about north arrows on maps. Not all maps demands north arrows and that decision depends on the kind of data the creator is visualizing (in terms of the extent/area of the place)
+and more importantly the type of projection being used for the visualization.
+The map is a 3D visualization of the featured map showing the fossil sites for 1970.
+
+The original map (2D) is from the American Geographical Society 1970 compiled by Campbell Craddock.
+![Antartica_Fossil](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/4af8bf30-a978-41c7-a183-a603fbc0b4ee)
 
 
-
-Tool: QGIS. Blender
+Tool: QGIS, Blender
 
 Data Source:
 * Map- University of Wisconsin American Geographical Society Library Digital Map Collection
