@@ -388,7 +388,7 @@ Data Source:
 ![3D_Antartica_Fossil_Map - Copy](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/496abbdc-6058-4964-a189-81b87fcac42d)
 
 During the 2023 #30daymapchallenge, I discovered one concept about north arrows on maps through a comment from @Mirza Waleed. Not all maps demands north arrows and that decision depends on the kind of data the creator is visualizing (in terms of the extent/area of the place) and more importantly the type of projection being used for the visualization.
-Read more about thi concept from:
+Read more about this concept from:
 * https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/put-a-north-arrow-on-it/
 * https://www.esri.com/arcgis-blog/products/product/mapping/does-every-map-need-a-north-arrow-and-scale-bar/
 
