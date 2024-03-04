@@ -381,3 +381,21 @@ Data Source:
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
+
+# Day 22: NORTH is not always up
+# Title: Fossil Map of Antarctica
+
+![3D-NZ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/96496e54-9e6e-4e7f-b01b-8498b1b03b25)
+
+
+
+Tool: QGIS. Blender
+
+Data Source:
+* Map- University of Wisconsin American Geographical Society Library Digital Map Collection
+* DEM- https://portal.opentopography.org/dataCatalog
+
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
