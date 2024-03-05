@@ -419,7 +419,7 @@ Laos, situated in Southeast Asia, is intersected by the Mekong River and recogni
 
 The  2D format can be found in below:
 
-![Antartica_Fossil](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/4af8bf30-a978-41c7-a183-a603fbc0b4ee)
+![LAO-coloured](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9a32191c-014b-44c7-9bb3-80e1005d0fce)
 
 
 Tool: QGIS, Blender
