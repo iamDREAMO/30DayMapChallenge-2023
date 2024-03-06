@@ -410,7 +410,7 @@ Data Source:
 
 
 
-# Day 22: 3D
+# Day 23: 3D
 # Title: Elevation Map of Laos
 
 ![3D-Laos](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/6d7f1f5f-884b-4710-93b6-cf110107b236)
@@ -433,12 +433,12 @@ Data Source:
 
 
 
-# Day 22: BLACK & WHITE
-# Title: 
+# Day 24: BLACK & WHITE
+# Title: Homebush Bay, Sydney
 
-![3D-Laos](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/6d7f1f5f-884b-4710-93b6-cf110107b236)
+![-Black and White Map_Day24](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/cc59c26a-44c7-418a-bca2-629676b9efcd)
 
-Laos, situated in Southeast Asia, is intersected by the Mekong River and recognized for its mountainous landscape, remnants of French colonial architecture, communities of hill tribes, and Buddhist monasteries. Vientiane, the capital city, hosts notable landmarks including the That Luang monument, believed to enshrine the Buddha’s breastbone, along with the Patuxai war memorial and Talat Sao (Morning Market), a bustling marketplace filled with a variety of food, clothing, and craft vendors.
+Homebush Bay, situated on the southern bank of the Parramatta River in western Sydney, Australia, encompasses not only the bay itself but also an adjacent area to its west and south. Once recognized as an official suburb of Sydney, this area now comprises the suburbs of Sydney Olympic Park, Wentworth Point, and a portion of the neighboring suburb of Lidcombe, all within the jurisdiction of the City of Parramatta. Homebush Bay lies approximately 13 kilometers (8.1 miles) west of Sydney's central business district.
 
 
 
