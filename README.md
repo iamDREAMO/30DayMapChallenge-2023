@@ -444,7 +444,7 @@ Homebush Bay, situated on the southern bank of the Parramatta River in western S
 
 
 Tool:  
-* Prettymap- (https://prettymapp.streamlit.app/)
+* Prettymap- https://prettymapp.streamlit.app/ 
 * QGIS
 
 Data Source:
