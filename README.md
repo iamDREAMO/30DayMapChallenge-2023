@@ -431,3 +431,24 @@ Data Source:
 
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
+
+
+# Day 22: BLACK & WHITE
+# Title: 
+
+![3D-Laos](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/6d7f1f5f-884b-4710-93b6-cf110107b236)
+
+Laos, situated in Southeast Asia, is intersected by the Mekong River and recognized for its mountainous landscape, remnants of French colonial architecture, communities of hill tribes, and Buddhist monasteries. Vientiane, the capital city, hosts notable landmarks including the That Luang monument, believed to enshrine the Buddha’s breastbone, along with the Patuxai war memorial and Talat Sao (Morning Market), a bustling marketplace filled with a variety of food, clothing, and craft vendors.
+
+
+
+
+Tool: https://prettymapp.streamlit.app/
+
+Data Source:
+* OSM
+
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
