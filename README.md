@@ -457,7 +457,7 @@ Data Source:
 
 
 # Day 25: ANTARCTICA
-# Title: 
+# Title: Antarctica 1987
 
 ![-Black and White Map_Day24](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/cc59c26a-44c7-418a-bca2-629676b9efcd)
 This is a 3D visualization of an old Antartic map from the University of Wisconsin Library and it shows the terms under the terms of the Treaty in 1991, signatory nations are required to utilize Antarctica solely for peaceful activities. This includes prohibiting any military activities, such as weapon testing, as well as the detonation of nuclear devices or the disposal of radioactive waste within the region. The copyright of the original map is attributed to Washington D.C. National Geographic Society 1987.
