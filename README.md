@@ -459,11 +459,14 @@ Data Source:
 # Day 25: ANTARCTICA
 # Title: Antarctica 1987
 
-![-Black and White Map_Day24](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/cc59c26a-44c7-418a-bca2-629676b9efcd)
-This is a 3D visualization of an old Antartic map from the University of Wisconsin Library and it shows the terms under the terms of the Treaty in 1991, signatory nations are required to utilize Antarctica solely for peaceful activities. This includes prohibiting any military activities, such as weapon testing, as well as the detonation of nuclear devices or the disposal of radioactive waste within the region. The copyright of the original map is attributed to Washington D.C. National Geographic Society 1987.
+![3D_Antarctica_1987 ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/f9d68b40-afd7-4b0a-b84f-e6e1a6a914a6)
+
+This is a 3D visualization of an old Antartic map from the University of Wisconsin Library and it shows the terms under the terms of the Treaty in 1991, signatory nations are required to utilize Antarctica solely for peaceful activities. This includes prohibiting any 
+military activities, such as weapon testing, as well as the detonation of nuclear devices or the disposal of radioactive waste within the region. The copyright of the original map is attributed to Washington D.C. National Geographic Society 1987.
 
 The original map (2D) is from the American Geographical Society👇
 
+![antartica_1987](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/e8bc6ca6-64d9-4467-9795-481f4e62c65c)
 
 Tool:  
 * Blender 
