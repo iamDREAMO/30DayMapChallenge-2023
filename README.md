@@ -486,7 +486,7 @@ Data Source:
 
 ![Madagascar_Minimal_Day26](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bc1f6ace-2cf0-4eca-b77c-42f6a21c21bc)
 
-During the 2023 #30daymapchallenge, this elevation (in mneters) map was created using the Contour Polygon tool in #QGIS under the theme, Minimal- less is more.
+During the 2023 #30daymapchallenge, this map (elevation in meters) was created using the Contour Polygon tool in #QGIS under the theme, Minimal- less is more.
 
 Contour polygons in QGIS refer to the process of generating polygon features from contour lines, which are lines representing points of equal elevation on a map. 
 These polygons are created by connecting the contour lines to form closed shapes, allowing for the visualization of areas with similar elevation levels.
