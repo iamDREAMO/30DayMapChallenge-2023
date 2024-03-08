@@ -481,7 +481,7 @@ Data Source:
 
 
 
-# Day 25: MINIMAL
+# Day 26: MINIMAL
 # Title: Elevations of Madagascar
 
 ![Madagascar_Minimal_Day26](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bc1f6ace-2cf0-4eca-b77c-42f6a21c21bc)
