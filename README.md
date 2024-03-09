@@ -506,12 +506,17 @@ Data Source:
 # Day 27: DOT
 # Title: Open Pubs in UK
 
-![Madagascar_Minimal_Day26](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bc1f6ace-2cf0-4eca-b77c-42f6a21c21bc)
+![UK-Pubs-Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/0fd5d0b9-e72f-42c7-b79a-ccb18c659f52)
 
-During the 2023 #30daymapchallenge, this map (elevation in meters) was created using the Contour Polygon tool in #QGIS under the theme, Minimal- less is more.
+Under the theme, Dot of the 2023 #30daymapchallenge, this map was created to visualize the pubs in UK.
+In my search for data, I found the GetTheData website
+Hey everyone,
+It's all about organizing UK open data into location-based dashboards. What's really cool is that it not only surfaces the available data but also provides clear signposts to the original sources.
 
-Contour polygons in QGIS refer to the process of generating polygon features from contour lines, which are lines representing points of equal elevation on a map. 
-These polygons are created by connecting the contour lines to form closed shapes, allowing for the visualization of areas with similar elevation levels.
+One of the standout features is the GetTheData panel that accompanies each dataset they publish. This panel explains exactly where you can access the data and view its license. 
+It's incredibly user-friendly and a great resource for anyone interested in exploring open data in the UK.
+
+I've found it super helpful, and I think you all will too. Check it out when you get a chance!
 
 Tool:  
 * QGIS
