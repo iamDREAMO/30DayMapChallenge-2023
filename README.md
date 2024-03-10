@@ -526,10 +526,10 @@ Data Source:
 
 
 
-# Day 27: CHART/MAP
+# Day 28: CHART/MAP
 # Title: About Japanease Season
 
-![UK-Pubs-Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/0fd5d0b9-e72f-42c7-b79a-ccb18c659f52)
+![About Japanease Season](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/177dae91-a557-4dc5-a887-68f7c1dbb395)
 
 Is this a chart or a map?	In thematic maps, you can't always tell. This features an article I read about Japanease Season.
 
