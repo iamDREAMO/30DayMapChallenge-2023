@@ -527,7 +527,7 @@ Data Source:
 
 
 # Day 28: CHART/MAP
-# Title: About Japanease Season
+# Title: Japanese Season
 
 ![About Japanease Season](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/177dae91-a557-4dc5-a887-68f7c1dbb395)
 
