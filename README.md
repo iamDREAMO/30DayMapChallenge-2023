@@ -526,4 +526,31 @@ Data Source:
 
 
 
+# Day 27: CHART/MAP
+# Title: About Japanease Season
+
+![UK-Pubs-Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/0fd5d0b9-e72f-42c7-b79a-ccb18c659f52)
+
+Is this a chart or a map?	In thematic maps, you can't always tell. This features an article I read about Japanease Season.
+
+Japan's climate, as outlined by the Japan Meteorological Agency, showcases a diverse range of weather patterns across its regions.
+From subarctic conditions in the north to subtropical climates in the south, Japan experiences four distinct seasons.
+
+The climate varies between the Pacific and Sea of Japan sides, with northern Japan witnessing warm summers and freezing winters, characterized by heavy snowfall in mountainous and coastal areas.
+Eastern Japan, on the other hand, endures hot and humid summers alongside cold winters, with significant snowfall in specific regions.
+
+Moving westward, Japan experiences very hot and humid summers, with temperatures occasionally soaring above 35°C, while winters are relatively moderate. 
+The southern regions of Okinawa and Amami enjoy a subtropical oceanic climate, featuring warm and humid summers and mild winters, with temperatures rarely exceeding 35°C.
+
+This climatological data, based on averages from the period of 1981-2010, sheds light on the diverse and contrasting weather conditions found across Japan's various regions.
+
+
+
+Map: https://www.sunny-spot.net/english/AboutJapaneaseSeason.html?area=0
+
+Data Source: https://www.jma.go.jp/jma/indexe.html
+
+
+
+
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
