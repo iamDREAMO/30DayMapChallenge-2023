@@ -556,5 +556,26 @@ Data Source: https://www.jma.go.jp/jma/indexe.html
 #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
 
 
-# Day 29
-The........
+
+# Day 29: POPULATION
+# Title: Ghana Population Density 2020, UN Adjusted
+
+![About Japanease Season](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/177dae91-a557-4dc5-a887-68f7c1dbb395)
+
+The day's task for the 2023 #30daymapchallemge was about Population. I decided give this theme to my motherland, Ghana and visualize the population density from the available WorldPop Hub #geodatabase.
+
+The data is available for download in Geotiff and ASCII XYZ formats, this dataset offers insights into population distribution at a resolution of 30 arc (about 1km at the equator).
+Utilizing a Geographic Coordinate System (WGS84), the data provides information on the number of people per square kilometer, derived from country totals adjusted to align with official United Nations population estimates from the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat (2019 Revision of World Population Prospects). 
+
+Tools:
+* Aerialod- https://ephtracy.github.io/index.html?page=aerialod
+* QGIS
+
+Data Source: 
+* GeoTIFF- https://hub.worldpop.org/geodata/
+  
+
+
+
+#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+
