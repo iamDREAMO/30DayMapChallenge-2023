@@ -510,7 +510,6 @@ Data Source:
 
 Under the theme, Dot of the 2023 #30daymapchallenge, this map was created to visualize the pubs in UK.
 In my search for data, I found the GetTheData website
-Hey everyone,
 It's all about organizing UK open data into location-based dashboards. What's really cool is that it not only surfaces the available data but also provides clear signposts to the original sources.
 
 One of the standout features is the GetTheData panel that accompanies each dataset they publish. This panel explains exactly where you can access the data and view its license. 
