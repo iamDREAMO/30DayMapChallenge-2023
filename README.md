@@ -1,6 +1,6 @@
 # 30DayMapChallenge-2023
 
- All the entries  for the 30 Day Map Challenge
+These maps are the entries for the challenge.
 
 
 # Day-1: POINTS
