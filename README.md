@@ -21,7 +21,7 @@ Data Source:
 🔗 https://www.citypopulation.de/en/ghana/admin/
 
 
-#30daymapchallenge #datavisualization #geography #GIS #cartography 
+#30daymapchallenge #datavisualization #geography #GIS ##cartography 
 
 
 
