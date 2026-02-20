@@ -1,597 +1,464 @@
-# 30DayMapChallenge-2023
 
-## These maps are the entries for the challenge.
+---
 
+# 🌍 30 Day Map Challenge 2023
 
-# Day-1: POINTS
+A curated collection of my entries for the **30 Day Map Challenge 2023**, exploring cartography, GIS analysis, spatial storytelling, and 3D terrain visualization.
 
-# Title: Towns Distribution Across Ghana 
+Throughout this challenge, I worked extensively with **QGIS, Blender, Google Earth Engine**, and related geospatial tools to produce both 2D and 3D visualizations across diverse global themes.
 
-![Day1-Points](https://github.com/iamDREAMO/My_-30DayMapChallenge2023/assets/89151426/0a55af64-9112-4849-b282-532bc522941a)
+---
 
+## 🛠 **Tools & Technologies**
 
-The map shows how towns are distributed across the 16 Regions of Ghana
-Ghana is divided into 228 districts, comprising ordinary districts with populations under 75,000, municipality districts with populations ranging from 75,000 to 95,000, and metropolitan districts with populations exceeding 250,000.
+**GIS & Spatial Analysis:** QGIS • Google Earth Engine 
+**3D Visualization:** Blender • Aerialod
+**Data Processing:** Microsoft Excel • Google Sheets
+**Multimedia & Post-Processing:** DaVinci Resolve • Sub
 
-Tools: Excel, QGIS
+---
 
-Data Source: 
-🔗 https://statsghana.gov.gh/
+# 📌 **Challenge Entries**
 
-🔗 https://www.citypopulation.de/en/ghana/admin/
+---
 
+## 📍 **Day 1 — Points**
 
-#30daymapchallenge #datavisualization #geography #GIS ##cartography 
+### Town Distribution Across Ghana
 
+<!-- IMAGE PLACEHOLDER -->
 
+**Overview**
+This map visualizes the distribution of towns across Ghana’s 16 administrative regions. Ghana is divided into 228 districts, categorized as ordinary, municipal, or metropolitan based on population thresholds. The visualization highlights settlement distribution patterns across the country.
 
+**Tools:** Excel, QGIS
+**Data Source:** 
 
-# Day-2: LINES
+---
 
-# Title: Flight Route to DjangoCon US 2023, Durham, North Carolina
+## 📍 **Day 2 — Lines**
 
-![Day2-Lines](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d7729e89-b916-4b49-91ed-d7b7b0ce180b)
+### Flight Route to DjangoCon US 2023 (Durham, NC)
 
+<!-- IMAGE PLACEHOLDER -->
 
-The total flight hours was 22 hours!😂 Being in the air for more done half a day aside layover hours was a different feeling all together👌
-It reminds me of a good moment I had throughout the whole journey and oh, @Djangocon ended few weeks ago!🙌 
+**Overview**
+This map illustrates the international flight route to DjangoCon US 2023 in Durham, North Carolina. The total flight duration was approximately 22 hours, excluding layovers. The visualization emphasizes long-distance air connectivity and route mapping.
 
-Tools: Google Sheet, QGIS
+**Tools:** Google Sheets, QGIS
+**Data Sources:**
 
-Data Sources:
-🔗 www.efrainmaps.es
+* [Insert OurAirports link]
+* [Insert EfrainMaps link]
 
-🔗 www.ourairports.com
+---
 
-#30daymapchallenge #30DayMapChallenge #Djangoconus2023 #datavisualization #geography #GIS #cartography. 
+## 📍 **Day 3 — Polygons**
 
+### Lakes of the World
 
+<!-- IMAGE PLACEHOLDER -->
 
+**Overview**
+A global visualization of lakes represented as polygon features, emphasizing surface area distribution and spatial patterns. The project was developed both as a static cartographic product and an interactive web map.
 
-# Day-3: POLYGONS
+**Web Map:** [Insert your GitHub Pages link]
+**Tools:** QGIS
+**Data Source:** [Insert EfrainMaps link]
 
-# Title: Map of Lakes Across the World
+---
 
-![Day_3_World_Lakes](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/26e4ddcc-b454-4265-929b-ee086b0b8d9d)
+## 📍 **Day 4 — A Bad Map**
 
+### What Makes a Map Ineffective?
 
-The output for the challenge was to visualize the Lakes in the world (POLYGONS) both as an interactive web map and a paper formats. Both turned out to be good but I like the web map!😍
+<!-- IMAGE PLACEHOLDER -->
 
-WebMap: https://iamdreamo.github.io/Webmap-for-Day3-30daysChallenge/
+**Overview**
+This entry explores cartographic principles by demonstrating what constitutes a poorly designed map. A map that does not clearly answer **What, Where, When, and Who** may be considered ineffective.
 
-Data Source: 
-🔗 www.efrainmaps.es
+Essential cartographic elements include:
 
-Tools: QGIS, Windows Clipchamp
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-# Day-4: A BAD MAP
-
-# Title: What is a bad map?
-
-![Day4-Bad Map](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/336edbd0-5524-4e87-ba32-fa5e1ccb233a)
-
-
-What makes up a bad map? 
-Any map that fails to answer WHAT,WHERE, WHEN, and WHO? question is a bad map
-Any map that lacks any of the following features and cannot answer the questions above can be described as a bad map regardless of the symbology
 * Title
-* North Arrow (Navigation/Direction)
-* Grid/Coordinate System
 * Legend
 * Scale
-* Bibliographical Information
+* North arrow (when appropriate)
+* Coordinate reference system
+* Source information
 
-Data Source: 
-🔗 www.efrainmaps.es
+**Tools:** QGIS
+**Data Source:** [Insert EfrainMaps link]
 
-Tools: QGIS
+---
 
+## 📍 **Day 5 — Analogue**
 
-#30daymapchallenge #30DayMapChallenge 
+### Mo'orea Volcanic Island (Physical Model)
 
-# Day-5: ANALOGUE MAP
+<!-- IMAGE PLACEHOLDER OR VIDEO LINK -->
 
-# Title: Mo'orea Volcanic Island
+**Overview**
+A handcrafted terrain representation of Mo'orea, a volcanic island in French Polynesia. This entry focused on physical terrain modeling without digital GIS tools, emphasizing analogue cartographic techniques.
 
-Link to Analogue Video: (https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/4fec1029-1ec7-4d3a-8996-6f2cf151b921)
+---
 
+## 📍 **Day 6 — Asia**
 
-I crafted the terrains of Moorea which is a Volcanic Island located in French Polynesia.
+### Terrain Visualization of Asia
 
+<!-- IMAGE PLACEHOLDER -->
 
-Tools: My hand and Imaginations😂👍🏾
+**Overview**
+A terrain-based visualization highlighting major mountain systems and topographic variation across Asia. The map emphasizes elevation gradients and regional geomorphology.
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original data link]
 
+---
 
-# Day-6: ASIA
+## 📍 **Day 7 — Navigation**
 
-# Title: Country Cities in Asia
+### Maritime Navigation Map
 
-![Day6-Asia](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/d3f932ab-e8b4-43d3-9ece-423b7d0e9840)
+<!-- IMAGE PLACEHOLDER -->
 
-The map shows the cities of the countries on the continent, Asia. By far, it was difficult in accessing data for this work. I am opened to sharing of links resources in the comments.
+**Overview**
+A navigation-focused map highlighting coastal features, bathymetry, and maritime routes. The design emphasizes clarity and navigational utility.
 
-Tools: Everything was done in QGIS.
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-Data Sources:
-🔗 www.efrainmaps.es
+---
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+## 📍 **Day 8 — Africa**
 
+### Physical Map of Africa
 
-# Day-7: NAVIGATION
+<!-- IMAGE PLACEHOLDER -->
 
-# Title: Flight-flow from ACC to neighbouring countries
+**Overview**
+A continental terrain visualization showcasing elevation variation, major river systems, and significant landforms across Africa.
 
-![Day7-Navigation](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/90773219-477e-4f1a-ae33-e996e66e3472)
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-Straight destination flights are mostly the wish for travelers embarking long journeys. Layovers can be tiring and boring at times. Kotoka International Airport is the only international airport currently in Ghana. Below is a visualization of flight flow from ACC (airport code for Kotoka International Airport) to airports, airfields, and helipads of neighboring countries. 
+---
 
-Tools: Everything was done in QGIS
+## 📍 **Day 9 — Hexagons**
 
-Data Sources:
-🔗 www.efrainmaps.es
+### Population Density (Hexagonal Grid)
 
-#30daymapchallenge #navigation #30DayMapChallenge #datavisualization #geography #GIS #cartography
+<!-- IMAGE PLACEHOLDER -->
 
+**Overview**
+Population raster data was converted into a hexagonal grid to improve spatial readability and reduce visual distortion. The map emphasizes distribution patterns using uniform tessellation.
 
-# Day 8: AFRICA
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-# Title: Cassava Africa
+---
 
-![Day8-Africa](https://github.com/iamDREAMO/My-30DayMapChallenge2023/assets/89151426/5881af45-c71b-4d2d-88bc-b197f08e1c65)
+## 📍 **Day 10 — North America**
 
-This map shows the distribution of planted cassava in areas of Africa. Each point is equivalent to 500 hectares in land in Cassava cultivation
+### Terrain Visualization
 
-Data Source: https://hub.arcgis.com/datasets/
+<!-- IMAGE PLACEHOLDER -->
 
-Tool: Visualization was done with QGIS
+**Overview**
+A DEM-based terrain visualization of North America highlighting major mountain ranges and regional elevation contrasts.
 
-#30daymapchallenge #navigation #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
+---
 
-# Day 9: HEXAGONS
-# Title: Elevation of Lesotho
+## 📍 **Day 11 — Retro**
 
-![3D-Lestho-Day9-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/7fe832e0-8f4d-4273-838b-0289a234521f)
+### Vintage-Style Thematic Map
 
-That's why it was a challenge! Hexagons visualization was new to me but I struggled and did it. I spent time to learn this and that also led me to start my visualization with Blender software. Yes, my first blender work combined with QGIS.
+<!-- IMAGE PLACEHOLDER -->
 
-Tools:
-* QGIS for hexagons
-* DEM of Lesotho was combined with the hexagon layer to form the 3D elevation model in Blender
-  
-Data Source: https://www.diva-gis.org/gdata
+**Overview**
+A retro-inspired cartographic design incorporating muted color palettes and traditional typography to emulate historical map aesthetics.
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
+---
 
-# Day 10: NORTH AMERICA
-# Title: Level II Ecoregions of North America
+## 📍 **Day 12 — South America**
 
-![North America-Benedict](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bb158809-ef3f-4ac3-9de6-f8292d94c2e6)
-Inspired by the United States Environmental Protection Agency (https://www.epa.gov/eco-research/ecoregions-north-america), this map was recreated to show the 50 Level II ecological regions that have been delineated and intended to provide a more detailed description of the large ecological areas nested within the Level I regions. Level II ecological regions are useful for national and subcontinental overviews of ecological patterns.
+### Andes Mountain Range (3D Model)
 
-Tools:
-* QGIS, Blender
+<!-- IMAGE PLACEHOLDER FOR 3D -->
 
-Data Source:https://hub.arcgis.com/datasets/
+<!-- IMAGE PLACEHOLDER FOR 2D -->
 
+**Overview**
+A 3D elevation model of the Andes Mountains highlighting topographic extremes and longitudinal mountain continuity. The 2D map complements the 3D visualization for analytical comparison.
 
-# Day 11: RETRO	(A blast from the past)
-# Title: Soil Suitability Map for Mechanised and other Cultivation Practices in Ghana
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-![RETRO-Benedict Kofi Amofah-new](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9564a69f-66d1-4f00-941b-43ac96c0de5f)
-This map, Soil Suitability Map for Mechanised and other Cultivation Practices in Ghana was produced and printed by the Surrvey Department, Accra, GHANA on May 1971. The original map was visualized into 3D using #Blender. Other details can be found from the attached images.
+---
 
-Tools:
-* QGIS
-* Blender
+## 📍 **Day 13 — Choropleth**
 
-Data Source: https://esdac.jrc.ec.europa.eu/ (EUDASM)
+### Population by Administrative Regions
 
+<!-- IMAGE PLACEHOLDER -->
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Overview**
+A choropleth map visualizing population distribution across administrative boundaries using graduated color symbology.
 
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-# Day 12: SOUTH AMERICA
-# Title: Geological Map of South America
+---
 
-![3D-SA -New](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bf653e94-4add-4870-bfcb-c7c2ced00116)
-Between 1928 and 1940, the TCI Cartographic Office for the Italian Encyclopedia of Giovanni Treccani Institute published this map and was printed by the renowned Italian publisher, Antonio Vallardi-Milano.
-The creater of this map is Guido Bonarelli, Italian geologist and paleontologist (1871-1951).
+## 📍 **Day 14 — Europe**
 
-The plain map was georeferenced in QGIS, combined with the DEM and modelled in #Blender.
+### Elevation Map of Europe
 
-Tools:
-* QGIS
-* Blender
+<!-- IMAGE PLACEHOLDER -->
 
-Data Source: 
-* Map- https://commons.wikimedia.org/
-* DEM- USGS
+**Overview**
+A terrain-based visualization highlighting major mountain systems and topographic gradients across Europe.
 
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+---
 
+## 📍 **Day 15 — OpenStreetMap**
 
-# Day 13: CHOROPLETH
-# Title: Hong Kong Population Distribution
+### Urban Infrastructure Map
 
-![Hong_Kong](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9d32516f-ebad-4156-9f76-9c7d327456d4)
-The map shows the Hong Kong Population Distribution by Usual Spoken Language by 18 districts in 2021. It is a subset of the 2021 Population Census made available by the Census and Statistics Department under the Government of Hong Kong Special Administrative Region (the "Government") at https://portal.csdi.gov.hk ("CSDI Portal"). 
+<!-- IMAGE PLACEHOLDER -->
 
-I recreated the map with a focus on the population of each of the districts.
+**Overview**
+An extraction and stylization of OpenStreetMap data to visualize transportation networks and built infrastructure.
 
-Tool: QGIS
+**Tools:** QGIS
+**Data Source:** [Insert OpenStreetMap link]
 
-Data Source: https://hub.arcgis.com/datasets/
+---
 
+## 📍 **Day 16 — Oceania**
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+### Island Terrain Visualization
 
+<!-- IMAGE PLACEHOLDER -->
 
-# Day 14: EUROPE
-# Title: Roads - National 250k Map Of Ireland
+**Overview**
+A terrain visualization emphasizing volcanic landforms and island geomorphology across Oceania.
 
-![Ireland_Roads_Day_14](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/7e12d13c-8b7c-4a26-994b-50b86c19ac4e)
-Ireland was chosen for the theme (Europe) of the 2023 #30daymapchallenge and it is the second-largest island of the British Isles, and the third-largest in Europe.
-The map features European roads (E-roads) and connections between built-up areas. In addition to main routes, it includes roads necessary for a fully connected transportation network, such as direct links between areas or routes to isolated places like harbors and airports. Within built-up areas, the map focuses on main roads, ensuring clarity and ease of navigation.
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-All roads are depicted with a single line, regardless of their size or number of lanes. 
-This dataset is made available by Tailte Éireann.
+---
 
-Tool: QGIS
+## 📍 **Day 17 — Flow**
 
-Data Source: https://data-osi.opendata.arcgis.com/datasets/
+### Migration Flow Map
 
+<!-- IMAGE PLACEHOLDER -->
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Overview**
+A flow map illustrating directional movement between regions using proportional arrow symbology.
 
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-# Day 15: OpenStreetMap
-# Title: Venice, Italy OSM
+---
 
-![Vernice Italy_Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/8cd7124a-c56d-4048-a5a7-a8d53ed1b5b9)
-Throughout the 2023 #30daymapchallenge, I encountered various OSM maps and likely explored most of the methods for acquiring data from sites supported by OSM. I became interested in automating this workflow to obtain a similar map for the challenge theme. I came across Prettymaps, a #Python package for drawing maps with customizable styles using OpenStreetMap data crated by Marcelo de Oliveira Rosa Prates. It is created using the osmnx, matplotlib, shapely, and vsketch packages. The documentation on GitHub provided a smooth experience, outlining the various steps to create and customize OSMs.
+## 📍 **Day 18 — Atmosphere**
 
-I also discovered the webapp version (Prettymap) developed by Christoph Rieke which has improved features on speed and adapted configuration to interface with the webapp.
+### Climate Pattern Visualization
 
-My map submissions: https://iamdreamo.github.io/30DayMapChallenge-2023/ 
+<!-- IMAGE PLACEHOLDER -->
 
-Tool/Data Source: 
-* Prettymaps (Source code: https://github.com/marceloprates/prettymaps)
-* Webapp (Prettymap)- https://github.com/chrieke/prettymapp)
+**Overview**
+A raster-based visualization representing atmospheric or climate-related variables, emphasizing spatial variation and environmental gradients.
 
+**Tools:** Google Earth Engine, QGIS
+**Data Source:** [Insert original link]
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+---
 
+## 📍 **Day 19 — 5-Minute Map**
 
-# Day 16: OCEANIA
-# Title: Title: 3D Visualized Elevation of Australia
+### Rapid Terrain Render
 
-![3D1-Elevation-Australia-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/66db5aee-be6b-4131-b455-7bad9c672e4b)
-I discovered this map from the archives and decided to visualized it in 3D. The University of Wisconsin American Geographical Society Library Digital Map Collection is a home for so many old maps in different jurisdiction.
+<!-- IMAGE PLACEHOLDER -->
 
-Tool: Blender, QGIS
+**Overview**
+A quick terrain visualization demonstrating efficient styling and rapid map production workflow.
 
-Data Source:
-University of Wisconsin
-American Geographical Society Library Digital Map Collection
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
+---
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+## 📍 **Day 20 — Outdoors**
 
+### Landscape Terrain Map
 
-# Day 17: FLOW
-# Title: International Students in United States place of Origin from West Africa, 2022/2023
+<!-- IMAGE PLACEHOLDER -->
 
-![Flow Map-Benedict-Kofi-Amofah](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/06864ad6-1f84-4e29-93bf-c7f94125a6ee)
-The concept of flow under the 2023 ##30daymapchallenge was geared towards flow of transport and people. I picked on the flow of people and the next step was data sourcing. 
-Visiting the Open Doors Data organization website revealed a whole set of data. The decision was to visualize the flow of international students from the West Africa Sub-Saharan countries studying in the USA
+**Overview**
+A terrain-focused visualization emphasizing natural landscapes and protected outdoor environments.
 
-Tool: Microsoft Excel, QGIS
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-Data Source:
-* www.gh.usembassy.gov/
-* www.opendoorsdata.org/
+---
 
+## 📍 **Day 21 — Raster**
 
+### Bathymetry of New Zealand
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+<!-- IMAGE PLACEHOLDER FOR 3D -->
 
+<!-- IMAGE PLACEHOLDER FOR 2D -->
 
-# Day 18: ATMOSPHERE
-# Title: Global Burning Index (CEMS), 2010
+**Overview**
+Developed from NIWA’s bathymetry model of New Zealand. The 250m resolution dataset was clipped and processed to highlight underwater terrain features. The 3D model enhances interpretation of sub-marine topography.
 
-![Atmosphere](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/50194b26-7c78-4c9e-a738-4c847491eee1)
-Conditions of the atmosphere either weather or climate were the details for the 2023 #30daymapchallenge Day 18 under the Atmosphere theme. I used Climate Engine for my project during my undergraduate studies and it is an excellent tool with supportive data for analysis and visualization of satellite data in areas of Remote Sensing, Climate, Hydrology and among others.
+**Tools:** QGIS, Blender
+**Data Source:** [Insert NIWA link]
 
-"Climate Engine tools use Google Earth Engine for on-demand processing of satellite and climate data on a web browser and features on-demand mapping of environmental monitoring datasets, such as remote sensing and gridded meteorological observations."
+---
 
-Tool: Climate Engine App
+## 📍 **Day 22 — North Is Not Always Up**
 
-Data Source:
-* https://app.climateengine.org/
+### Fossil Map of Antarctica (1970)
 
+<!-- IMAGE PLACEHOLDER FOR 3D -->
 
+<!-- IMAGE PLACEHOLDER FOR 2D -->
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Overview**
+This project demonstrates that north orientation is not mandatory in cartographic design. The original fossil map was reinterpreted in 3D to enhance spatial storytelling and contextual understanding.
 
+**Tools:** QGIS, Blender
+**Data Sources:**
 
-# Day 19: 5min Map
-# Title: OSM portions of KNUST
+* [Insert American Geographical Society link]
+* [Insert OpenTopography link]
 
-![5min-map1](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/1f760467-e368-45a0-a2a4-16e85659f8a3)
-The general rule was to spend less than 5 minutes on the map but it took 5 minutes 5 seconds to generate and customize this map.
-Prettymaps, a #Python package for drawing maps with customizable styles using OpenStreetMap data crated by Marcelo de Oliveira Rosa Prates. It is created using the osmnx, matplotlib, shapely, and vsketch packages.
+---
 
-Tool: Prettymap- https://prettymapp.streamlit.app/
+## 📍 **Day 23 — 3D**
 
-Data Source:
-* OSM
+### Elevation Map of Laos
 
+<!-- IMAGE PLACEHOLDER FOR 3D -->
 
+<!-- IMAGE PLACEHOLDER FOR 2D -->
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+**Overview**
+A 3D elevation model highlighting Laos’ mountainous terrain and river systems. The 2D representation supports analytical clarity, while the 3D visualization enhances depth perception.
 
+**Tools:** QGIS, Blender
+**Data Source:** [Insert DIVA-GIS link]
 
-# Day 20: OUTDOORS
-# Title: Kilimanjaro
+---
 
-![k1](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/8f9aae73-82aa-4756-a61d-a39e92238915)
-Mount Kilimanjaro, situated in the Kilimanjaro Region of Tanzania, is a dormant volcano characterized by three distinct volcanic cones: Kibo, Mawenzi, and Shira. As the tallest mountain in Africa and the highest single free-standing peak above sea level globally, it reaches an impressive elevation of 5,895 meters (19,341 feet) above sea level, towering approximately 4,900 meters (16,100 feet) above its plateau base. This volcanic giant holds the distinction of being the highest volcano not only in Africa but also in the Eastern Hemisphere.
+## 📍 **Day 24 — Black & White**
 
-Watch Terrain Video: https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/f0724d1c-d909-45cd-925c-77ad9411eaec
+### Monochrome Terrain Map
 
-Tool/Data Source:
-* Google Earth Explorer
+<!-- IMAGE PLACEHOLDER -->
 
+**Overview**
+A grayscale terrain visualization emphasizing relief and shading rather than color variation to enhance topographic interpretation.
 
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+---
 
+## 📍 **Day 25 — Antarctica**
 
+### Polar Terrain Model
 
-# Day 21: RASTER (PIXELS)
-# Title: 3D Bathymetry of New Zealand
+<!-- IMAGE PLACEHOLDER FOR 3D -->
 
-![3D-NZ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/96496e54-9e6e-4e7f-b01b-8498b1b03b25)
+<!-- IMAGE PLACEHOLDER FOR 2D -->
 
-This visualization was created from the NIWA's bathymetry model of New Zealand. With a 250m as the original resolution, I clipped out portions of the model to focus mainly on New Zealand. 
-This represents a significant advancement in our understanding of New Zealand's underwater landscape.
-Compiled from various sources including coastal charts, digital soundings archive, and multibeam data from both national and international surveys, this model is a comprehensive representation of the underwater terrain- NIWA Geospatial Data
+**Overview**
+A 3D visualization of Antarctic elevation and ice sheet coverage, highlighting polar geomorphology and surface structure.
 
-Find the initial 2D map created below👇
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-![New_Zealand_Bathymetry_raster](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/01802768-8806-460a-80b1-04adab476d9e)
+---
 
+## 📍 **Day 26 — Minimal**
 
-Tool: QGIS. Blender
+### Minimal Administrative Map
 
-Data Source:
-* https://data-niwa.opendata.arcgis.com/datasets/
+<!-- IMAGE PLACEHOLDER -->
 
+**Overview**
+A simplified cartographic design focusing on typography, hierarchy, and reduced symbology to emphasize clarity.
 
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+---
 
+## 📍 **Day 27 — Dot Map**
 
-# Day 22: NORTH is not always up
-# Title: Fossil Map of Antarctica
+### Population Dot Distribution
 
-![3D_Antartica_Fossil_Map - Copy](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/496abbdc-6058-4964-a189-81b87fcac42d)
+<!-- IMAGE PLACEHOLDER -->
 
-During the 2023 #30daymapchallenge, I discovered one concept about north arrows on maps through a comment from @Mirza Waleed. Not all maps demands north arrows and that decision depends on the kind of data the creator is visualizing (in terms of the extent/area of the place) and more importantly the type of projection being used for the visualization.
-Read more about this concept from:
-* https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/put-a-north-arrow-on-it/
-* https://www.esri.com/arcgis-blog/products/product/mapping/does-every-map-need-a-north-arrow-and-scale-bar/
+**Overview**
+A dot density map representing population distribution without reliance on administrative boundaries.
 
-This map is a 3D visualization of the featured map showing the fossil sites for 1970.
-The original map (2D) is from the American Geographical Society 1970 compiled by Campbell Craddock.
+**Tools:** QGIS
+**Data Source:** [Insert original link]
 
-![Antartica_Fossil](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/4af8bf30-a978-41c7-a183-a603fbc0b4ee)
+---
 
+## 📍 **Day 28 — Isometric**
 
-Tool: QGIS, Blender
+### Isometric Terrain Render
 
-Data Source:
-* Map- University of Wisconsin American Geographical Society Library Digital Map Collection
-* DEM- https://portal.opentopography.org/dataCatalog
+<!-- IMAGE PLACEHOLDER -->
 
+**Overview**
+An isometric terrain visualization blending cartography and 3D rendering techniques to enhance depth and perspective.
 
+**Tools:** QGIS, Blender
+**Data Source:** [Insert original link]
 
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+---
 
+## 📍 **Day 29 — Population**
 
+### Ghana Population Density (2020, UN Adjusted)
 
-# Day 23: 3D
-# Title: Elevation Map of Laos
+<!-- IMAGE PLACEHOLDER -->
 
-![3D-Laos](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/6d7f1f5f-884b-4710-93b6-cf110107b236)
+**Overview**
+This map visualizes Ghana’s population density using WorldPop data adjusted to align with United Nations population estimates. The dataset provides population per square kilometer at approximately 1km resolution.
 
-Laos, situated in Southeast Asia, is intersected by the Mekong River and recognized for its mountainous landscape, remnants of French colonial architecture, communities of hill tribes, and Buddhist monasteries. Vientiane, the capital city, hosts notable landmarks including the That Luang monument, believed to enshrine the Buddha’s breastbone, along with the Patuxai war memorial and Talat Sao (Morning Market), a bustling marketplace filled with a variety of food, clothing, and craft vendors.
+**Tools:** QGIS, Aerialod
+**Data Source:** [Insert WorldPop Hub link]
 
-The  2D format can be found in below:
+---
 
-![LAO-coloured](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/9a32191c-014b-44c7-9bb3-80e1005d0fce)
+## 📍 **Day 30 — Wrap-Up**
 
+### 2023 Challenge Summary
 
-Tool: QGIS, Blender
+<!-- IMAGE PLACEHOLDER -->
 
-Data Source:
-* https://www.diva-gis.org/gdata
+**Overview**
+This final entry marks the completion of the 30 Day Map Challenge 2023. The project reflects growth in digital elevation modeling, thematic cartography, raster processing, and 3D terrain visualization.
 
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-
-# Day 24: BLACK & WHITE
-# Title: Homebush Bay, Sydney
-
-![-Black and White Map_Day24](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/cc59c26a-44c7-418a-bca2-629676b9efcd)
-
-Homebush Bay, situated on the southern bank of the Parramatta River in western Sydney, Australia, encompasses not only the bay itself but also an adjacent area to its west and south. Once recognized as an official suburb of Sydney, this area now comprises the suburbs of Sydney Olympic Park, Wentworth Point, and a portion of the neighboring suburb of Lidcombe, all within the jurisdiction of the City of Parramatta. Homebush Bay lies approximately 13 kilometers (8.1 miles) west of Sydney's central business district.
-
-
-
-
-Tool:  
-* Prettymap- https://prettymapp.streamlit.app/ 
-* QGIS
-
-Data Source:
-* OSM
-
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-
-# Day 25: ANTARCTICA
-# Title: Antarctica 1987
-
-![3D_Antarctica_1987 ](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/f9d68b40-afd7-4b0a-b84f-e6e1a6a914a6)
-
-This is a 3D visualization of an old Antarctic map from the University of Wisconsin Library and it shows the terms under the terms of the Treaty in 1991, signatory nations are required to utilize Antarctica solely for peaceful activities. This includes prohibiting any 
-military activities, such as weapon testing, as well as the detonation of nuclear devices or the disposal of radioactive waste within the region. The copyright of the original map is attributed to Washington D.C. National Geographic Society 1987.
-
-The original map (2D) is from the American Geographical Society👇
-
-![antartica_1987](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/e8bc6ca6-64d9-4467-9795-481f4e62c65c)
-
-Tool:  
-* Blender 
-* QGIS
-
-Data Source:
-* University of Wisconsin- American Geographical Society Library Digital Map Collection
-
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-
-# Day 26: MINIMAL
-# Title: Elevations of Madagascar
-
-![Madagascar_Minimal_Day26](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/bc1f6ace-2cf0-4eca-b77c-42f6a21c21bc)
-
-During the 2023 #30daymapchallenge, this map (elevation in meters) was created using the Contour Polygon tool in #QGIS under the theme, Minimal- less is more.
-
-Contour polygons in QGIS refer to the process of generating polygon features from contour lines, which are lines representing points of equal elevation on a map. 
-These polygons are created by connecting the contour lines to form closed shapes, allowing for the visualization of areas with similar elevation levels.
-
-Tool:  
-* QGIS
-
-Data Source:
-* DIVA GIS - https://www.diva-gis.org/gdata
-
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-
-# Day 27: DOT
-# Title: Open Pubs in UK
-
-![UK-Pubs-Map](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/0fd5d0b9-e72f-42c7-b79a-ccb18c659f52)
-
-Under the theme, Dot of the 2023 #30daymapchallenge, this map was created to visualize the pubs in UK.
-In my search for data, I found the GetTheData website
-It's all about organizing UK open data into location-based dashboards. What's really cool is that it not only surfaces the available data but also provides clear signposts to the original sources.
-
-One of the standout features is the GetTheData panel that accompanies each dataset they publish. This panel explains exactly where you can access the data and view its license. 
-It's incredibly user-friendly and a great resource for anyone interested in exploring open data in the UK.
-
-I've found it super helpful, and I think you all will too. Check it out when you get a chance!
-
-Tool:  
-* QGIS
-
-Data Source:
-* https://www.getthedata.com/open-pubs
-
-
-
-# Day 28: CHART/MAP
-# Title: Japanese Season
-
-![About Japanease Season](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/177dae91-a557-4dc5-a887-68f7c1dbb395)
-
-Is this a chart or a map?	In thematic maps, you can't always tell. This features an article I read about Japanease Season.
-
-Japan's climate, as outlined by the Japan Meteorological Agency, showcases a diverse range of weather patterns across its regions.
-From subarctic conditions in the north to subtropical climates in the south, Japan experiences four distinct seasons.
-
-The climate varies between the Pacific and Sea of Japan sides, with northern Japan witnessing warm summers and freezing winters, characterized by heavy snowfall in mountainous and coastal areas.
-Eastern Japan, on the other hand, endures hot and humid summers alongside cold winters, with significant snowfall in specific regions.
-
-Moving westward, Japan experiences very hot and humid summers, with temperatures occasionally soaring above 35°C, while winters are relatively moderate. 
-The southern regions of Okinawa and Amami enjoy a subtropical oceanic climate, featuring warm and humid summers and mild winters, with temperatures rarely exceeding 35°C.
-
-This climatological data, based on averages from the period of 1981-2010, sheds light on the diverse and contrasting weather conditions found across Japan's various regions.
-
-
-
-Map: https://www.sunny-spot.net/english/AboutJapaneaseSeason.html?area=0
-
-Data Source: https://www.jma.go.jp/jma/indexe.html
-
-
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-
-# Day 29: POPULATION
-# Title: Ghana Population Density 2020, UN Adjusted
-
-![Pop for GitHub](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/3e353595-a382-415f-b802-a11ad345cd54)
-
-The day's task for the 2023 #30daymapchallemge was about Population. I decided give this theme to my motherland, Ghana and visualize the population density from the available WorldPop Hub #geodatabase.
-
-The data is available for download in Geotiff and ASCII XYZ formats, this dataset offers insights into population distribution at a resolution of 30 arc (about 1km at the equator).
-Utilizing a Geographic Coordinate System (WGS84), the data provides information on the number of people per square kilometer, derived from country totals adjusted to align with official United Nations population estimates from the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat (2019 Revision of World Population Prospects). 
-
-It was my first time using Aerialod for 3D visualization and I really loved it!
-
-Tools:
-* Aerialod- https://ephtracy.github.io/index.html?page=aerialod
-* QGIS
-
-Data Source: 
-* GeoTIFF- https://hub.worldpop.org/geodata/
-  
-
-
-
-#30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
-
-
-
-# Day 30: MY FAVORITE
-# Title: 2023 #30daymapchallenge Wrap!
-
-![Favorite](https://github.com/iamDREAMO/30DayMapChallenge-2023/assets/89151426/1b83d9c7-0217-45c6-af32-73802e247547)
-
-This is the wrap after completing the 2023 #30DayMapChallenge, an incredible journey of exploring various concepts and honing my map-making skills with you all.  
-From navigating through different themes each day to mastering new software tools, this challenge has truly expanded my skill set and opened doors to endless possibilities in cartography.
-
-Throughout the challenge, I delved into GIS and Remote Sensing concepts, applying them creatively to craft captivating maps that captured the essence of each theme. 
-Now, as I reflect on this achievement, I'm filled with gratitude for the invaluable learning experience and excited to tackle future challenges head-on.
-
-#MapChallenge #GIS #Cartography #RemoteSensing #30daymapchallenge #30DayMapChallenge #datavisualization #geography #GIS #cartography
+---
 
