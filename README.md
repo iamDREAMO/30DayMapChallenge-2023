@@ -1,6 +1,3 @@
-
----
-
 # 🌍 30 Day Map Challenge 2023
 
 A curated collection of my entries for the **30 Day Map Challenge 2023**, exploring cartography, GIS analysis, spatial storytelling, and 3D terrain visualization.
