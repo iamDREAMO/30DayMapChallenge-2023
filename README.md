@@ -1,4 +1,4 @@
-# 🌍 30 Day Map Challenge 2023
+# 30 Day Map Challenge 🌍 
 
 A curated collection of my entries for the **30 Day Map Challenge 2023**, exploring cartography, GIS analysis, spatial storytelling, and 3D terrain visualization.
 
@@ -8,13 +8,13 @@ Throughout this challenge, I worked extensively with **QGIS, Blender, Google Ear
 
 ## 🛠 **Tools & Technologies**
 
-**GIS & Spatial Analysis:** QGIS •  
+**GIS & Spatial Analysis:** QGIS • Google Earth Engine • Climate Engine • Google Earth Explorer 
 **3D Visualization:** Blender • Aerialod
 **Data Processing:** Microsoft Excel • Google Sheets
 **Multimedia & Post-Processing:** DaVinci Resolve • Sub
 
 
-# 📌 **Challenge Entries**
+## **Challenge Entries**
 
 
 ## 📍 **Day 1 — Points**
