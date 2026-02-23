@@ -6,7 +6,7 @@ Throughout this challenge, I worked extensively with **QGIS, Blender, Google Ear
 
 ---
 
-## 🛠 **Tools & Technologies**
+## **Tools & Technologies**
 
 **GIS & Spatial Analysis:** QGIS • Google Earth Engine • Climate Engine • Google Earth Explorer 
 **3D Visualization:** Blender • Aerialod
@@ -14,10 +14,10 @@ Throughout this challenge, I worked extensively with **QGIS, Blender, Google Ear
 **Multimedia & Post-Processing:** DaVinci Resolve • Sub
 
 
-## **Challenge Entries**
+## **Challenge Entries:**
 
 
-## 📍 **Day 1 — Points**
+## **Day 1 — Points**
 
 ### Town Distribution Across Ghana
 
@@ -31,7 +31,7 @@ This map visualizes the distribution of towns across Ghana’s 16 administrative
 
 
 
-## 📍 **Day 2 — Lines**
+##  **Day 2 — Lines**
 
 ### Flight Route to DjangoCon US 2023 (Durham, NC)
 
@@ -45,7 +45,7 @@ This map illustrates the international flight route to DjangoCon US 2023 in Durh
 
 
 
-## 📍 **Day 3 — Polygons**
+##  **Day 3 — Polygons**
 
 ### Lakes of the World
 
@@ -60,7 +60,7 @@ A global visualization of lakes represented as polygon features, emphasizing sur
 
 
 
-## 📍 **Day 4 — A Bad Map**
+##  **Day 4 — A Bad Map**
 
 ### What Makes a Map Ineffective?
 
@@ -83,7 +83,7 @@ Essential cartographic elements include:
 
 
 
-## 📍 **Day 5 — Analogue**
+##  **Day 5 — Analogue**
 
 ### Mo'orea Volcanic Island (Physical Model)
 
@@ -94,7 +94,7 @@ A handcrafted terrain representation of Mo'orea, a volcanic island in French Pol
 
 
 
-## 📍 **Day 6 — Asia**
+##  **Day 6 — Asia**
 
 ### Terrain Visualization of Asia
 
@@ -108,7 +108,7 @@ A terrain-based visualization highlighting major mountain systems and topographi
 
 
 
-## 📍 **Day 7 — Navigation**
+##  **Day 7 — Navigation**
 
 ### Maritime Navigation Map
 
@@ -122,7 +122,7 @@ A navigation-focused map highlighting coastal features, bathymetry, and maritime
 
 
 
-## 📍 **Day 8 — Africa**
+##  **Day 8 — Africa**
 
 ### Physical Map of Africa
 
@@ -136,7 +136,7 @@ A continental terrain visualization showcasing elevation variation, major river 
 
 
 
-## 📍 **Day 9 — Hexagons**
+##  **Day 9 — Hexagons**
 
 ### Population Density (Hexagonal Grid)
 
@@ -150,7 +150,7 @@ Population raster data was converted into a hexagonal grid to improve spatial re
 
 
 
-## 📍 **Day 10 — North America**
+##  **Day 10 — North America**
 
 ### Terrain Visualization
 
@@ -164,7 +164,7 @@ A DEM-based terrain visualization of North America highlighting major mountain r
 
 
 
-## 📍 **Day 11 — Retro**
+##  **Day 11 — Retro**
 
 ### Vintage-Style Thematic Map
 
@@ -178,7 +178,7 @@ A retro-inspired cartographic design incorporating muted color palettes and trad
 
 
 
-## 📍 **Day 12 — South America**
+##  **Day 12 — South America**
 
 ### Andes Mountain Range (3D Model)
 
@@ -194,7 +194,7 @@ A 3D elevation model of the Andes Mountains highlighting topographic extremes an
 
 
 
-## 📍 **Day 13 — Choropleth**
+##  **Day 13 — Choropleth**
 
 ### Population by Administrative Regions
 
@@ -208,7 +208,7 @@ A choropleth map visualizing population distribution across administrative bound
 
 
 
-## 📍 **Day 14 — Europe**
+##  **Day 14 — Europe**
 
 ### Elevation Map of Europe
 
@@ -222,7 +222,7 @@ A terrain-based visualization highlighting major mountain systems and topographi
 
 
 
-## 📍 **Day 15 — OpenStreetMap**
+##  **Day 15 — OpenStreetMap**
 
 ### Urban Infrastructure Map
 
@@ -236,7 +236,7 @@ An extraction and stylization of OpenStreetMap data to visualize transportation 
 
 
 
-## 📍 **Day 16 — Oceania**
+##  **Day 16 — Oceania**
 
 ### Island Terrain Visualization
 
@@ -250,7 +250,7 @@ A terrain visualization emphasizing volcanic landforms and island geomorphology 
 
 
 
-## 📍 **Day 17 — Flow**
+##  **Day 17 — Flow**
 
 ### Migration Flow Map
 
@@ -264,7 +264,7 @@ A flow map illustrating directional movement between regions using proportional 
 
 
 
-## 📍 **Day 18 — Atmosphere**
+##  **Day 18 — Atmosphere**
 
 ### Climate Pattern Visualization
 
@@ -278,7 +278,7 @@ A raster-based visualization representing atmospheric or climate-related variabl
 
 
 
-## 📍 **Day 19 — 5-Minute Map**
+##  **Day 19 — 5-Minute Map**
 
 ### Rapid Terrain Render
 
@@ -292,7 +292,7 @@ A quick terrain visualization demonstrating efficient styling and rapid map prod
 
 
 
-## 📍 **Day 20 — Outdoors**
+##  **Day 20 — Outdoors**
 
 ### Landscape Terrain Map
 
@@ -306,7 +306,7 @@ A terrain-focused visualization emphasizing natural landscapes and protected out
 
 
 
-## 📍 **Day 21 — Raster**
+##  **Day 21 — Raster**
 
 ### Bathymetry of New Zealand
 
@@ -322,7 +322,7 @@ Developed from NIWA’s bathymetry model of New Zealand. The 250m resolution dat
 
 
 
-## 📍 **Day 22 — North Is Not Always Up**
+##  **Day 22 — North Is Not Always Up**
 
 ### Fossil Map of Antarctica (1970)
 
@@ -341,7 +341,7 @@ This project demonstrates that north orientation is not mandatory in cartographi
 
 
 
-## 📍 **Day 23 — 3D**
+##  **Day 23 — 3D**
 
 ### Elevation Map of Laos
 
@@ -357,7 +357,7 @@ A 3D elevation model highlighting Laos’ mountainous terrain and river systems.
 
 
 
-## 📍 **Day 24 — Black & White**
+##  **Day 24 — Black & White**
 
 ### Monochrome Terrain Map
 
@@ -371,7 +371,7 @@ A grayscale terrain visualization emphasizing relief and shading rather than col
 
 
 
-## 📍 **Day 25 — Antarctica**
+##  **Day 25 — Antarctica**
 
 ### Polar Terrain Model
 
@@ -387,7 +387,7 @@ A 3D visualization of Antarctic elevation and ice sheet coverage, highlighting p
 
 
 
-## 📍 **Day 26 — Minimal**
+##  **Day 26 — Minimal**
 
 ### Minimal Administrative Map
 
@@ -401,7 +401,7 @@ A simplified cartographic design focusing on typography, hierarchy, and reduced 
 
 
 
-## 📍 **Day 27 — Dot Map**
+##  **Day 27 — Dot Map**
 
 ### Population Dot Distribution
 
@@ -415,7 +415,7 @@ A dot density map representing population distribution without reliance on admin
 
 
 
-## 📍 **Day 28 — Isometric**
+##  **Day 28 — Isometric**
 
 ### Isometric Terrain Render
 
@@ -429,7 +429,7 @@ An isometric terrain visualization blending cartography and 3D rendering techniq
 
 
 
-## 📍 **Day 29 — Population**
+##  **Day 29 — Population**
 
 ### Ghana Population Density (2020, UN Adjusted)
 
@@ -443,7 +443,7 @@ This map visualizes Ghana’s population density using WorldPop data adjusted to
 
 
 
-## 📍 **Day 30 — Wrap-Up**
+##  **Day 30 — Wrap-Up**
 
 ### 2023 Challenge Summary
 
