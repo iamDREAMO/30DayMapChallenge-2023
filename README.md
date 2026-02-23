@@ -11,7 +11,6 @@ Throughout this challenge, I worked extensively with **QGIS, Blender, Google Ear
 **GIS & Spatial Analysis:** QGIS • Google Earth Engine • Climate Engine • Google Earth Explorer • Prettymaps
 **3D Visualization:** Blender • Aerialod
 **Data Processing:** Microsoft Excel • Google Sheets
-**Multimedia & Post-Processing:** DaVinci Resolve • Sub
 
 
 ## **Challenge Entries:**
