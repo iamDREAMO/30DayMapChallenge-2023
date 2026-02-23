@@ -8,16 +8,14 @@ Throughout this challenge, I worked extensively with **QGIS, Blender, Google Ear
 
 ## 🛠 **Tools & Technologies**
 
-**GIS & Spatial Analysis:** QGIS • Google Earth Engine 
+**GIS & Spatial Analysis:** QGIS •  
 **3D Visualization:** Blender • Aerialod
 **Data Processing:** Microsoft Excel • Google Sheets
 **Multimedia & Post-Processing:** DaVinci Resolve • Sub
 
----
 
 # 📌 **Challenge Entries**
 
----
 
 ## 📍 **Day 1 — Points**
 
@@ -29,9 +27,9 @@ Throughout this challenge, I worked extensively with **QGIS, Blender, Google Ear
 This map visualizes the distribution of towns across Ghana’s 16 administrative regions. Ghana is divided into 228 districts, categorized as ordinary, municipal, or metropolitan based on population thresholds. The visualization highlights settlement distribution patterns across the country.
 
 **Tools:** Excel, QGIS
-**Data Source:** 
+**Data Source:** [Ghana Statistical Services](https://statsghana.gov.gh/) • [City Population](https://www.citypopulation.de/en/ghana/admin/)
 
----
+
 
 ## 📍 **Day 2 — Lines**
 
@@ -43,12 +41,9 @@ This map visualizes the distribution of towns across Ghana’s 16 administrative
 This map illustrates the international flight route to DjangoCon US 2023 in Durham, North Carolina. The total flight duration was approximately 22 hours, excluding layovers. The visualization emphasizes long-distance air connectivity and route mapping.
 
 **Tools:** Google Sheets, QGIS
-**Data Sources:**
+**Data Sources:** [Efrainmaps](www.efrainmaps.es) • [Our Airpots](www.ourairports.com)
 
-* [Insert OurAirports link]
-* [Insert EfrainMaps link]
 
----
 
 ## 📍 **Day 3 — Polygons**
 
@@ -59,11 +54,11 @@ This map illustrates the international flight route to DjangoCon US 2023 in Durh
 **Overview**
 A global visualization of lakes represented as polygon features, emphasizing surface area distribution and spatial patterns. The project was developed both as a static cartographic product and an interactive web map.
 
-**Web Map:** [Insert your GitHub Pages link]
+**Web Map:** [World]
 **Tools:** QGIS
 **Data Source:** [Insert EfrainMaps link]
 
----
+
 
 ## 📍 **Day 4 — A Bad Map**
 
@@ -86,7 +81,7 @@ Essential cartographic elements include:
 **Tools:** QGIS
 **Data Source:** [Insert EfrainMaps link]
 
----
+
 
 ## 📍 **Day 5 — Analogue**
 
@@ -97,7 +92,7 @@ Essential cartographic elements include:
 **Overview**
 A handcrafted terrain representation of Mo'orea, a volcanic island in French Polynesia. This entry focused on physical terrain modeling without digital GIS tools, emphasizing analogue cartographic techniques.
 
----
+
 
 ## 📍 **Day 6 — Asia**
 
@@ -111,7 +106,7 @@ A terrain-based visualization highlighting major mountain systems and topographi
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original data link]
 
----
+
 
 ## 📍 **Day 7 — Navigation**
 
@@ -125,7 +120,7 @@ A navigation-focused map highlighting coastal features, bathymetry, and maritime
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 8 — Africa**
 
@@ -139,7 +134,7 @@ A continental terrain visualization showcasing elevation variation, major river 
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 9 — Hexagons**
 
@@ -153,7 +148,7 @@ Population raster data was converted into a hexagonal grid to improve spatial re
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 10 — North America**
 
@@ -167,7 +162,7 @@ A DEM-based terrain visualization of North America highlighting major mountain r
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 11 — Retro**
 
@@ -181,7 +176,7 @@ A retro-inspired cartographic design incorporating muted color palettes and trad
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 12 — South America**
 
@@ -197,7 +192,7 @@ A 3D elevation model of the Andes Mountains highlighting topographic extremes an
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 13 — Choropleth**
 
@@ -211,7 +206,7 @@ A choropleth map visualizing population distribution across administrative bound
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 14 — Europe**
 
@@ -225,7 +220,7 @@ A terrain-based visualization highlighting major mountain systems and topographi
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 15 — OpenStreetMap**
 
@@ -239,7 +234,7 @@ An extraction and stylization of OpenStreetMap data to visualize transportation 
 **Tools:** QGIS
 **Data Source:** [Insert OpenStreetMap link]
 
----
+
 
 ## 📍 **Day 16 — Oceania**
 
@@ -253,7 +248,7 @@ A terrain visualization emphasizing volcanic landforms and island geomorphology 
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 17 — Flow**
 
@@ -267,7 +262,7 @@ A flow map illustrating directional movement between regions using proportional 
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 18 — Atmosphere**
 
@@ -281,7 +276,7 @@ A raster-based visualization representing atmospheric or climate-related variabl
 **Tools:** Google Earth Engine, QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 19 — 5-Minute Map**
 
@@ -295,7 +290,7 @@ A quick terrain visualization demonstrating efficient styling and rapid map prod
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 20 — Outdoors**
 
@@ -309,7 +304,7 @@ A terrain-focused visualization emphasizing natural landscapes and protected out
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 21 — Raster**
 
@@ -325,7 +320,7 @@ Developed from NIWA’s bathymetry model of New Zealand. The 250m resolution dat
 **Tools:** QGIS, Blender
 **Data Source:** [Insert NIWA link]
 
----
+
 
 ## 📍 **Day 22 — North Is Not Always Up**
 
@@ -344,7 +339,7 @@ This project demonstrates that north orientation is not mandatory in cartographi
 * [Insert American Geographical Society link]
 * [Insert OpenTopography link]
 
----
+
 
 ## 📍 **Day 23 — 3D**
 
@@ -360,7 +355,7 @@ A 3D elevation model highlighting Laos’ mountainous terrain and river systems.
 **Tools:** QGIS, Blender
 **Data Source:** [Insert DIVA-GIS link]
 
----
+
 
 ## 📍 **Day 24 — Black & White**
 
@@ -374,7 +369,7 @@ A grayscale terrain visualization emphasizing relief and shading rather than col
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 25 — Antarctica**
 
@@ -390,7 +385,7 @@ A 3D visualization of Antarctic elevation and ice sheet coverage, highlighting p
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 26 — Minimal**
 
@@ -404,7 +399,7 @@ A simplified cartographic design focusing on typography, hierarchy, and reduced 
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 27 — Dot Map**
 
@@ -418,7 +413,7 @@ A dot density map representing population distribution without reliance on admin
 **Tools:** QGIS
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 28 — Isometric**
 
@@ -432,7 +427,7 @@ An isometric terrain visualization blending cartography and 3D rendering techniq
 **Tools:** QGIS, Blender
 **Data Source:** [Insert original link]
 
----
+
 
 ## 📍 **Day 29 — Population**
 
@@ -446,7 +441,7 @@ This map visualizes Ghana’s population density using WorldPop data adjusted to
 **Tools:** QGIS, Aerialod
 **Data Source:** [Insert WorldPop Hub link]
 
----
+
 
 ## 📍 **Day 30 — Wrap-Up**
 
