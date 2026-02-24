@@ -450,13 +450,13 @@ GetTheData not only provides access to datasets but also clearly directs users t
 **Overview:**
 Is this a chart or a map? This visualization explores Japan’s climate and seasonal variation across its regions. While it may resemble a chart, in thematic mapping, the distinction isn’t always clear. The data is based on averages from 1981–2010, highlighting how Japan experiences four distinct seasons with varying climate patterns:
 
-    • Northern Japan: Subarctic conditions with warm summers and freezing winters; heavy snowfall in mountains and coastal areas.
+• Northern Japan: Subarctic conditions with warm summers and freezing winters; heavy snowfall in mountains and coastal areas.
 
-    • Eastern Japan: Hot, humid summers and cold winters with notable snowfall in select regions.
+• Eastern Japan: Hot, humid summers and cold winters with notable snowfall in select regions.
 
-    • Western Japan: Very hot, humid summers (sometimes exceeding 35°C) with relatively moderate winters.
+• Western Japan: Very hot, humid summers (sometimes exceeding 35°C) with relatively moderate winters.
 
-    • Southern regions (Okinawa and Amami): Subtropical oceanic climate with warm, humid summers and mild winters.
+• Southern regions (Okinawa and Amami): Subtropical oceanic climate with warm, humid summers and mild winters.
 
 This information is derived from the Japan Meteorological Agency and provides insight into the diverse and contrasting weather conditions found across Japan.
 
