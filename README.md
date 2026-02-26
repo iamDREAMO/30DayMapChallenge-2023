@@ -171,7 +171,7 @@ Inspired by the [United States Environmental Protection Agency (EPA)]((https://w
 
 <p align="center">
   <img src="/src/map_images/day11_retro_2d.webp" width="30%" alt="2D Map">
-  <img src="/src/map_images/day11_retro_3d.webp" width="48%" alt="3D Visualization">
+  <img src="/src/map_images/day11_retro_3d.webp" width="70%" alt="3D Visualization">
 </p>
 
 **Overview:**
