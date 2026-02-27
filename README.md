@@ -170,11 +170,15 @@ Inspired by the [United States Environmental Protection Agency (EPA)]((https://w
 ### Soil Suitability Map for Mechanised and Other Cultivation Practices in Ghana
 
 <p align="center">
-  <img src="/map_images/day11_retro_2d.webp"
-      style="width:48%; height:400px; object-fit:contain; background-color:#fff;">
-       
-  <img src="/map_images/day11_retro_3d.webp"
-       style="width:48%; height:400px; object-fit:contain; background-color:#fff;">
+  <span style="display:inline-block; width:48%; height:400px; overflow:hidden;">
+    <img src="/map_images/day11_retro_2d.webp"
+         style="width:100%; height:100%; object-fit:cover;">
+  </span>
+
+  <span style="display:inline-block; width:48%; height:400px; overflow:hidden;">
+    <img src="/map_images/day11_retro_3d.webp"
+         style="width:100%; height:100%; object-fit:cover;">
+  </span>
 </p>
 
 **Overview:**
